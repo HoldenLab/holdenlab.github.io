@@ -16,12 +16,11 @@ social: true  # includes social icons at the bottom of the page
     </div>
 </div>
 
-**We use advanced light microscopy to figure out how bacteria grow and divide.**
+Welcome to the website of the Holden Lab. We are based at the University of Warwick, near Coventry, UK. We are a diverse group of interdisciplinary scientists who study bacterial cell biology and biophysics using super-resolution microscopy and other advanced imaging methods. Our primary biological focus is how bacteria remodel their cell wall, which is one of the most important targets​ for antibiotics.
+
 
 Key research themes:
 
 - Mechanistic principles of bacterial cell wall remodelling
 - Single molecule & super-resolution microscopy
 - Open source scientific software and hardware
-
-We study how proteins act as tiny nanoscale machines to build complex biological structures. We primarily focus on how bacteria remodel their cell wall, which is one of the most important targets​ for antibiotics. To achieve this we use super-resolution microscopy to follow the activity of individual proteins at nanoscale resolution inside live bacteria
