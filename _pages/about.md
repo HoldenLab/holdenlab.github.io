@@ -16,7 +16,12 @@ social: true  # includes social icons at the bottom of the page
     </div>
 </div>
 
-Welcome to the website of the Holden Lab. We are based at the University of Warwick, near Coventry, UK. We are a diverse group of interdisciplinary scientists who study bacterial cell biology and biophysics using super-resolution microscopy and other advanced imaging methods. Our primary biological focus is how bacteria remodel their cell wall, which is one of the most important targets​ for antibiotics.
+Welcome to the website of the Holden Lab! 
+
+We are interdisciplinary scientists who study bacterial cell biology and biophysics using super-resolution microscopy and other advanced imaging methods. Our primary biological focus is how bacteria remodel their cell wall, which is one of the most important targets​ for antibiotics. 
+
+We are based in the <a href="https://warwick.ac.uk/services/estates/news/ibrb_opening/">Interdisciplinary Biosciences Research Building</a>, in the 
+<a href="https://warwick.ac.uk/fac/sci/lifesci/">School of Life Sciences</a>, University of Warwick, near Coventry, UK. 
 
 
 Key research themes:
