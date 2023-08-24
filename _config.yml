@@ -175,6 +175,9 @@ collections:
   projects:
     output: true
     permalink: /projects/:path/
+  people:
+    output: true
+    permalink: /people/:path/
 
 announcements:
   enabled: true
@@ -368,7 +371,7 @@ enable_navbar_social:       false  # enables displaying social links in the
                                    # navbar on the about page
 enable_people_categories:  true   # enables categorization of people into
                                    # multiple categories
-enable_research_categories:  true   # enables categorization of research into
+enable_project_categories:  true   # enables categorization of research into
                                    # multiple categories                                   
 enable_medium_zoom:         true   # enables image zoom feature (as on medium.com)
 enable_progressbar:         true   # enables a horizontal progress bar linked to the vertical scroll position
