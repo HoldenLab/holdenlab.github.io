@@ -16,7 +16,7 @@ social: true  # includes social icons at the bottom of the page
     </div>
 </div>
 
-Welcome to the website of the Holden Lab! 
+Welcome to the Holden Lab website! 
 
 We are interdisciplinary scientists who study bacterial cell biology and biophysics using super-resolution microscopy and other advanced imaging methods. Our primary biological focus is how bacteria remodel their cell wall, which is one of the most important targets​ for antibiotics. 
 
