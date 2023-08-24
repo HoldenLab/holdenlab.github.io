@@ -8,8 +8,10 @@ nav_order: 3
 display_categories: [research]
 horizontal: false
 ---
+<!-- pages/research.md -->
+The main biological question we study is how bacteria remodel their the cell wall. 
+To support this, we also develop broadly applicable hardware and software methods for super-resolution fluorescence microscopy.
 
-<!-- pages/projects.md -->
 <div class="projects">
 {%- if site.enable_project_categories and page.display_categories %}
   <!-- Display categorized projects -->
@@ -56,3 +58,8 @@ horizontal: false
   {%- endif -%}
 {%- endif -%}
 </div>
+
+---
+We greatfully acknowledge funding from the Wellcome Trust and the BBSRC.
+
+<!-- TODO ADD LOGOS -->
