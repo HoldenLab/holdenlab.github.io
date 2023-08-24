@@ -1,12 +1,14 @@
 ---
 layout: page
 permalink: /publications/
-title: publications
+title: Publications
 description: 
 nav: true
 nav_order: 1
 ---
-<!-- _pages/publications.md -->
+
+Links to all our papers may be found on [Google Scholar](https://scholar.google.com/citations?user=JFC4oaAAAAAJ&hl=en)
+
 <div class="publications">
 
 {% bibliography -f {{ site.scholar.bibliography }} %}
