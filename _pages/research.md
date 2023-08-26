@@ -60,6 +60,6 @@ To support this, we also develop broadly applicable hardware and software method
 </div>
 
 ---
-We greatfully acknowledge funding from the Wellcome Trust and the BBSRC.
+We gratefully acknowledge funding from the Wellcome Trust and the BBSRC.
 
 <!-- TODO ADD LOGOS -->
