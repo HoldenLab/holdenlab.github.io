@@ -18,14 +18,14 @@ If you would like more information about a specific position, or would just like
 
 # Current opportunities
 
-- [Post doc position in bioimage analysis](https://warwick-careers.tal.net/vx/appcentre-ext/brand-4/candidate/so/pm/1/pl/3/opp/77-Research-Fellow-106343-0823/en-GB) is available. Focus is on bioimage analysis of bacterial single molecule tracking and super-resolution microscopy data. Contract length: 3 years. Full details and application portal are in the above link. **Application deadline**: 10th September. 
-
+- [Post doc position in bioimage analysis](https://warwick-careers.tal.net/vx/appcentre-ext/brand-4/candidate/so/pm/1/pl/3/opp/77-Research-Fellow-106343-0823/en-GB) is available. Focus is on bioimage analysis of bacterial single molecule tracking and super-resolution microscopy data. Contract length: 3 years. Full details and application portal are in the above link. **Application deadline: 10th September.** 
+- [Senior technician position with a focus on molecular biology](https://warwick-careers.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-4/user-11595/xf-287774c8e052/candidate/so/pm/1/pl/3/opp/229-Senior-Research-Technician-107972-0823/en-GB) is available. Contract length: 8 years. Full details and application portal are in the above link. **Application deadline: 26th September.** 
 
 
 # Upcoming opportunities
 
 - 5-8 year post doc position in experimental biophysics and super-resolution microscopy. **Application link soon.**
-- 8 year senior technician position, with a focus on molecular biology.  **Application link soon.** 
+
 - PhD positions: The primary path to a PhD in the lab is through two excellent doctoral training programmes: the [BBSRC MIBTP PhD training programme](https://warwick.ac.uk/fac/cross_fac/mibtp/) and the [Warwick MRC DTP](https://warwick.ac.uk/fac/sci/med/study/mrcdtp/). We are happy to host both rotation projects and main PhD projects. If you are interested, get in touch by [email](seamus.holden@warwick.ac.uk)
 
 
