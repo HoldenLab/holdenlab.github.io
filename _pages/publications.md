@@ -14,3 +14,11 @@ Links to all our papers may be found on [Google Scholar](https://scholar.google.
 {% bibliography -f {{ site.scholar.bibliography }} %}
 
 </div>
+
+#### Papers by Séamus Holden prior to starting own lab
+
+<div class="publications">
+
+{% bibliography -f {{ site.scholar.bibliography_preIndependence }} %}
+
+</div>
