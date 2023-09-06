@@ -9,7 +9,7 @@ related_publications: holden2011daostorm, holden2010defining, torella2011identif
 ---
 Software has been crucial to super-resolution microscopy since the beginning of the field, and we have a longstanding interest in pushing the limits of single molecule methods, especially STORM/ PALM super-resolution microscopy and single molecule tracking, by developing new single molecule image analysis tools.
 
-##Current/ recent software
+## Current/ recent software
 We host our code on GitHub, you can find it here: [https://github.com/HoldenLab](https://github.com/HoldenLab)
 
 ## Older software
