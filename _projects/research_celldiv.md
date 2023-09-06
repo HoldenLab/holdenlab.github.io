@@ -15,7 +15,8 @@ We primarily use *Bacillus subtilis* as a model organism for this project, with 
 
 ## People
 - [David Roberts](projects/roberts_david/), bacterial geneticist and microscopist
-- [A senior technician position with a focus on molecular biology is available](https://warwick-careers.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-4/user-11595/xf-287774c8e052/candidate/so/pm/1/pl/3/opp/229-Senior-Research-Technician-107972-0823/en-GB) to work primarily on cell division. Contract length: 8 years. Full details and application portal are in the above link. **Application deadline: 26th September.**- We will very shortly be recruiting a post-doc in biophysics and super-resolution microscopy on this project.
+- [We are currently recruiting a senior technician position with a focus on molecular biology](https://warwick-careers.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-4/user-11595/xf-287774c8e052/candidate/so/pm/1/pl/3/opp/229-Senior-Research-Technician-107972-0823/en-GB) to work primarily on cell division. Contract length: 8 years. Full details and application portal are in the above link. **Application deadline: 26th September.**
+- We will very shortly be recruiting a post-doc in biophysics and super-resolution microscopy on this project.
 
 
 ## Collaborators
