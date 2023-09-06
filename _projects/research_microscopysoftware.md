@@ -21,4 +21,4 @@ We host our code on GitHub, you can find it here: [https://github.com/HoldenLab]
 [TwoTone](http://www.physics.ox.ac.uk/Users/kapanidis/Group/Main.Software.html), single molecule FRET data analysis software.
 
 ## People
-We are currently recruiting to a post-doc position to develop new methods for bioimage analysis of single molecule and super-resolution microscopy data - [more information here]((https://warwick-careers.tal.net/vx/appcentre-ext/brand-4/candidate/so/pm/1/pl/3/opp/77-Research-Fellow-106343-0823/en-GB)). **Application deadline**: 10th September. 
+*We are currently recruiting to a post-doc position to develop new methods for bioimage analysis of single molecule and super-resolution microscopy data - [more information and application portal here]((https://warwick-careers.tal.net/vx/appcentre-ext/brand-4/candidate/so/pm/1/pl/3/opp/77-Research-Fellow-106343-0823/en-GB)). **Application deadline**: 10th September. *
