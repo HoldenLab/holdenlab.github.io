@@ -31,4 +31,4 @@ If you would like more information about a specific position, or would just like
 
 # Equality statement
 
-In the Holden lab, we welcome and celebrate diversity in all its forms. We particularly welcome applications from women, BAME individuals or persons from backgrounds otherwise underrepresented in STEM.
+In the Holden lab, we welcome and celebrate diversity in all its forms. We particularly welcome applications from women, BAME individuals or persons from backgrounds otherwise historically underrepresented in STEM.
