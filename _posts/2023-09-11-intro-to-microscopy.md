@@ -12,11 +12,11 @@ Outstanding, comprehensive online courses on Microscopy *(Holden lab newbies, lo
 - [iBiology microscopy series](https://www.ibiology.org/online-biology-courses/microscopy-series/)
 
 For quick overviews:
-- General microscopy introduction: [BioImagingtoolbox- Guillaume Jacquemet](assets/pdf/bioimagingtoolbox-guillaume-jacquemet-small.pdf)
-- Introduction to microscope optics: [Basics of Optical Microscopy - Nicolas Olivier](assets/pdf/basics-of-optical-microscopy-nicolas-olivier.pdf)
-- Introduction to image analysis: [Image_analysis_lecture__Vincent_Boudreau](assets/pdf/image_analysis_lecture__vincent_boudreau.pdf)
-- Introduction to advanced microscopy for microbiology: [Single molecule microbiology lecture - Seamus Holden](assets/pdf/single-molecule-microbiology-lecture-seamus-holden.pdf)
-- Introduction to microscopy [with a focus on neuroscience]: [https://www.scribd.com/document/360138012/Master-Course-2017-Photonic-Imaging-in-Neurobiology-C-Leterrier](https://www.scribd.com/document/360138012/Master-Course-2017-Photonic-Imaging-in-Neurobiology-C-Leterrier)
+- General microscopy introduction: [BioImagingtoolbox- Guillaume Jacquemet](/assets/pdf/bioimagingtoolbox-guillaume-jacquemet-small.pdf)
+- Introduction to microscope optics: [Basics of Optical Microscopy - Nicolas Olivier](/assets/pdf/basics-of-optical-microscopy-nicolas-olivier.pdf)
+- Introduction to image analysis: [Image_analysis_lecture__Vincent_Boudreau](/assets/pdf/image_analysis_lecture__vincent_boudreau.pdf)
+- [Introduction to advanced microscopy for microbiology - Seamus Holden](/assets/pdf/Mol_Micro_Lecture_5_Holden_Advanced_microscopy_for_microbiology.pdf) (with a few slides borrowed from Nicolas Olivier's lecture above).
+- Introduction to microscopy (with a focus on neuroscience): [https://www.scribd.com/document/360138012/Master-Course-2017-Photonic-Imaging-in-Neurobiology-C-Leterrier](https://www.scribd.com/document/360138012/Master-Course-2017-Photonic-Imaging-in-Neurobiology-C-Leterrier)
 
 More detailed microscopy lecture series:
 - [Jeff Lichtmann light microscopy lectures](https://www.dropbox.com/sh/op30r8upwk5d0y5/AAAy_KyHesTVy2Tres6lyNa5a?dl=0) (excellent intro to microscopy with a focus on optics):
