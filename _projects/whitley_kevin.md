@@ -7,5 +7,5 @@ description: |
 img: assets/img/people/kevin_whitley_profile.jpg
 importance: 0
 category: alumni
-redirect: https://www.ncl.ac.uk/cbcb/staff/profile/kevinwhitley.html#background
+redirect: http://www.whitleylab.com
 ---
