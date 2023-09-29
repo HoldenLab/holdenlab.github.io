@@ -8,7 +8,7 @@ middle_name:
 last_name: Holden
 email: seamus.holden@warwick.ac.uk
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Website of the Holden Lab at the University of Warwick, UK.
+  Website of the Holden Lab at the University of Warwick, UK. We are interdisciplinary scientists who study bacterial cell biology and biophysics using super-resolution microscopy and other advanced imaging methods.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
