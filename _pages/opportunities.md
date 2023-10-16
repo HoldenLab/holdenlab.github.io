@@ -18,9 +18,8 @@ If you would like more information about a specific position, or would just like
 
 # Current opportunities
 
-- [Post doc position in bioimage analysis](https://warwick-careers.tal.net/vx/appcentre-ext/brand-4/candidate/so/pm/1/pl/3/opp/77-Research-Fellow-106343-0823/en-GB) is available. Focus is on bioimage analysis of bacterial single molecule tracking and super-resolution microscopy data. Contract length: 3 years. Full details and application portal are in the above link. **Application deadline: 10th September.** 
-- [Senior technician position with a focus on molecular biology](https://warwick-careers.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-4/user-11595/xf-287774c8e052/candidate/so/pm/1/pl/3/opp/229-Senior-Research-Technician-107972-0823/en-GB) is available. Contract length: 8 years. Full details and application portal are in the above link. **Application deadline: 26th September.** 
-- [Post-doc position in experimental biophysics and super-resolution microscopy](https://warwick-careers.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-4/xf-3a2306ae9f1f/candidate/so/pm/1/pl/3/opp/226-Research-Fellow-107971-0823/en-GB). Contract length: 5 years extendible up to 8 years. Full details and application portal are in the above link.**Application deadline: 10th October**
+- [Post-doc position in *in vitro* single molecule biophysics and super-resolution microscopy](https://warwick-careers.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-4/xf-3f0f50be1f41/spa-1/candidate/so/pm/1/pl/3/opp/407-Research-Fellow-108072-1023/en-GB). *Application deadline: 21 Nov 2023*.
+- [Senior Research Technician in biochemistry and molecular biology](https://warwick-careers.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-4/xf-b32297ec6e4e/spa-1/candidate/so/pm/1/pl/3/opp/405-Senior-Research-Technician-108074-0923/en-GB) - post is joint with [David Roper lab](https://warwick.ac.uk/fac/sci/lifesci/research/droper). *Application deadline: 21 Nov 2023*.
 
 # Upcoming opportunities
 
