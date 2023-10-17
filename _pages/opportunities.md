@@ -25,6 +25,9 @@ If you would like more information about a specific position, or would just like
 
 - PhD positions: The primary path to a PhD in the lab is through two excellent doctoral training programmes: the [BBSRC MIBTP PhD training programme](https://warwick.ac.uk/fac/cross_fac/mibtp/) and the [Warwick MRC DTP](https://warwick.ac.uk/fac/sci/med/study/mrcdtp/). We are happy to host both rotation projects and main PhD projects. If you are interested, get in touch by [email](seamus.holden@warwick.ac.uk)
 
+## Undergraduate research projects
+
+Each year we host third year undergraduate projects for Biochemistry and Biomedical Sciences students in our department (School of Life Sciences). If you are a student interested in pursuing a project in our lab, you can find out under the "Teaching and Supervision" tab of [Séamus Holden's departmental web page](https://warwick.ac.uk/fac/sci/lifesci/people/sholden/).
 
 ## Equality statement
 
