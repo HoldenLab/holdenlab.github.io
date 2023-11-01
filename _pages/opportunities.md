@@ -18,12 +18,12 @@ If you would like more information about a specific position, or would just like
 
 ## Current
 
+- [Postdoctoral researcher in cellular super-resolution microscopy and single molecule tracking](https://warwick-careers.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-4/user-5402/xf-6d7afc7f7cc9/candidate/so/pm/1/pl/3/opp/505). Application deadline: 26 Nov 2023.
 - [Post-doc position in *in vitro* single molecule biophysics](https://warwick-careers.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-4/xf-3f0f50be1f41/spa-1/candidate/so/pm/1/pl/3/opp/407-Research-Fellow-108072-1023/en-GB). *Application deadline: 21 Nov 2023*.
 - [Senior Research Technician in biochemistry and molecular biology](https://warwick-careers.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-4/xf-b32297ec6e4e/spa-1/candidate/so/pm/1/pl/3/opp/405-Senior-Research-Technician-108074-0923/en-GB) - post is joint with [David Roper lab](https://warwick.ac.uk/fac/sci/lifesci/research/droper). *Application deadline: 21 Nov 2023*.
 
 ## Upcoming
 
-- Post-doc position in super-resolution microscopy and quantitative biology *This post will shortly be advertised*
 - PhD positions: The primary path to a PhD in the lab is through two excellent doctoral training programmes: the [BBSRC MIBTP PhD training programme](https://warwick.ac.uk/fac/cross_fac/mibtp/) and the [Warwick MRC DTP](https://warwick.ac.uk/fac/sci/med/study/mrcdtp/). We are happy to host both rotation projects and main PhD projects. If you are interested, get in touch by [email](seamus.holden@warwick.ac.uk)
 
 ## Undergraduate research projects
@@ -32,4 +32,4 @@ Each year we host third year undergraduate projects for Biochemistry and Biomedi
 
 ## Equality statement
 
-In the Holden lab, we welcome and celebrate diversity in all its forms. We particularly welcome applications from women, BAME individuals or persons from backgrounds otherwise historically underrepresented in STEM.
+In the Holden lab, we welcome and celebrate diversity in all its forms. We particularly welcome applications from women, BAME individuals or persons from backgrounds otherwise underrepresented in STEM.
