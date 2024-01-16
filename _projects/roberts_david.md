@@ -13,11 +13,12 @@ redirect:
 PI: Dr Seamus Holden
 - **2018-2022**: Postdoctoral Researcher, Centre for Bacterial Cell Biology, Newcastle University. 
 PI: Prof Jeff Errington FMedSci FRS
-- **2013-2017**: PhD in Molecular Microbiology, Newcastle University
+- **2013-2017**: PhD in Molecular Microbiology, Newcastle University.
 Supervisor: Prof Jeff Errington FMedSci FRS; Funder: The Barbour Foundation
 - **2009-2013**: MBiolSci (Hons) First Class in Molecular Biology, University of Sheffield
 
 **Current Research**
+
 My research in the Holden lab is focussed on one of the most fundamental questions in microbiology: how one bacterial cell divides into two.
 
 Bacteria are surrounded by a peptidoglycan (PG) cell wall which is vital for protecting the cell for lysis due to the high internal osmotic pressure, and in rod-shaped bacteria is also critical for cell shape. Furthermore, PG synthesis is a major target for some of our most effective antibiotics (e.g. the penicillin’s) and is therefore a process of immense current interest.
