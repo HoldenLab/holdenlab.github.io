@@ -1,11 +1,9 @@
 ---
 layout: page
-title: 
-description: 
-img: assets/img/people/
+title: Simone Coppola
+description: Postdoctoral fellow
+img: assets/img/people/Simone_profile.png
 importance: 5
 category: current
 redirect: 
 ---
-
-Simone is going to work on **cool stuff**
