@@ -34,9 +34,7 @@ Email: andrew.mcmahon@warwick.ac.uk
 
 <br>
 <br>
-<font size="+2">Papers</font>
-<br>
-Links to my papers are available at <a href="https://scholar.google.com/citations?user=fTOaEbUAAAAJ&hl=en/">Google Scholar</a>.
+<font size="+3">Papers</font>
 
 <div class="publications">
   {% bibliography -f /papers_andrew %}
