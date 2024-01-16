@@ -12,18 +12,17 @@ redirect:
   <div class="row">
     <div class="col">
 
-<b>Career History</b>
-<ul>
-  <li><b>2022-present</b>: Postdoctoral Researcher, School of Life Sciences, University of Warwick. 
-PI: Dr Seamus Holden
-  <li><b>2018-2022</b>: Postdoctoral Researcher, Centre for Bacterial Cell Biology, Newcastle University. 
-PI: Prof Jeff Errington FMedSci FRS
-  <li><b>2013-2017</b>: PhD in Molecular Microbiology, Newcastle University.
-Supervisor: Prof Jeff Errington FMedSci FRS; Funder: The Barbour Foundation
-  <li><b>2009-2013</b>: MBiolSci (Hons) First Class in Molecular Biology, University of Sheffield</ul>
-<br>
-<br>
-Email: David.M.Roberts@warwick.ac.uk
+    <b>Career History</b>
+    <ul>
+      <li><b>2022-present</b>: Postdoctoral Researcher, School of Life Sciences, University of Warwick. 
+    PI: Dr Seamus Holden
+      <li><b>2018-2022</b>: Postdoctoral Researcher, Centre for Bacterial Cell Biology, Newcastle University. 
+    PI: Prof Jeff Errington FMedSci FRS
+      <li><b>2013-2017</b>: PhD in Molecular Microbiology, Newcastle University.
+    Supervisor: Prof Jeff Errington FMedSci FRS; Funder: The Barbour Foundation
+      <li><b>2009-2013</b>: MBiolSci (Hons) First Class in Molecular Biology, University of Sheffield</ul>
+    <br>
+    Email: David.M.Roberts@warwick.ac.uk
     
     </div>
 
