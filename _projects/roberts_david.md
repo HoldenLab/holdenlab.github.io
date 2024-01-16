@@ -21,16 +21,15 @@ PI: Prof Jeff Errington FMedSci FRS
   <li><b>2013-2017</b>: PhD in Molecular Microbiology, Newcastle University.
 Supervisor: Prof Jeff Errington FMedSci FRS; Funder: The Barbour Foundation
   <li><b>2009-2013</b>: MBiolSci (Hons) First Class in Molecular Biology, University of Sheffield
-</ul>
+<br>
 <br>
     </div>
 
     <div class="col">
-
-<img src="/assets/img/people/Dave_Roberts_profile.jpg" width="30%">
-<br>
-Email: David.M.Roberts@warwick.ac.uk
-<br>
+    {% include figure.html path="assets/img/people/andrew_mcmahon_profile.jpg" class="img-fluid rounded z-depth-1" width="70%" %} img src="/assets/img/people/Dave_Roberts_profile.jpg" width="30%">
+    <br>
+    Email: David.M.Roberts@warwick.ac.uk
+    <br>
 
     </div>
   </div>
@@ -40,11 +39,15 @@ Email: David.M.Roberts@warwick.ac.uk
 
 Since joining the Holden lab in October 2022, my research has been focussed on one of the most fundamental questions in microbiology: <a href="https://holdenlab.github.io/projects/research_celldiv/">how one bacterial cell divides into two</a>.
 <br>
+<br>
 Bacteria are surrounded by a peptidoglycan (PG) cell wall which is vital for protecting the cell from lysis due to the high internal osmotic pressure, and in rod-shaped bacteria is also critical for cell shape. Furthermore, PG synthesis is a major target for some of our most effective antibiotics (e.g. the penicillin’s) and is therefore a process of immense current interest.
+<br>
 <br>
 For bacteria to divide, PG needs to be built inwards at the division site in a precise and coordinated manner without compromising wall integrity (which would result in lysis and cell death). A conserved protein complex, known as the divisome, is critical for initiating and driving cell division, and is composed of cytoskeletal proteins, PG synthesis enzymes and a host of regulatory factors. Since many of the proteins in the divisome are essential, bacterial cell division offers an attractive target for antibiotic discovery.
 <br>
+<br>
 Using the model Gram-positive bacterium <i>Bacillus subtilis</i>, I use a combination of genetics, cell biology and advanced microscopy (single molecule and super-resolution) to study how the proteins and enzymes in the divisome function, both individually and together, to drive the synthesis of septal PG during bacterial division. A longer-term aim is to test our models from <i>B. subtilis</i> in a range of other bacterial species, including important pathogens.
+<br>
 <br>
 <b>Publications</b>:
 <ul>
@@ -64,8 +67,7 @@ Using the model Gram-positive bacterium <i>Bacillus subtilis</i>, I use a combin
 <br>
   <li> Kloosterman TG; Lenarcic R; Willis CR; <b>Roberts DM</b>; Hamoen LW; Errington J; Wu LJ (2016). Complex polar machinery required for proper chromosome segregation in vegetative and sporulating cells of Bacillus subtilis. <i>Molecular Microbiology</i>, <b>101</b>, 333-350. <a href="https://doi.org/10.1111/mmi.13393">https://doi.org/10.1111/mmi.13393</a>
 <br>
-  <li> Pietroni P; Vasisht N; Cook JP; <b>Roberts DM</b>; Lord JM; Hartmann-Petersen R; Roberts LM; Spooner RA (2013). The proteasome cap RPT5/Rpt5p subunit prevents aggregation of unfolded ricin A chain. <i>Biochemical Journal</i>, <b>453</b>, 435-445. <a href="https://doi.org/10.1042/BJ20130133">https://doi.org/10.1042/BJ20130133</a>
-</ul>
+  <li> Pietroni P; Vasisht N; Cook JP; <b>Roberts DM</b>; Lord JM; Hartmann-Petersen R; Roberts LM; Spooner RA (2013). The proteasome cap RPT5/Rpt5p subunit prevents aggregation of unfolded ricin A chain. <i>Biochemical Journal</i>, <b>453</b>, 435-445. <a href="https://doi.org/10.1042/BJ20130133">https://doi.org/10.1042/BJ20130133</a></li>
 
   </div>
 </div>
