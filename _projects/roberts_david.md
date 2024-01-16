@@ -29,7 +29,7 @@ For bacteria to divide, PG needs to be built inwards at the division site in a p
 Using the model Gram-positive bacterium *Bacillus subtilis*, I use a combination of genetics, cell biology and advanced microscopy (single molecule and super-resolution) to study how the proteins and enzymes in the divisome function, both individually and together, to drive the synthesis of septal PG during bacterial division. A longer-term aim is to test our models from *B. subtilis* in a range of other bacterial species, including important pathogens.
 
 **Publications**:
-- Benn G<sup>*</sup>; Bortolini C<sup>*</sup>; **Roberts DM**; Pyne ALB; Holden S; Hoogenboom BW (2023). Complement-mediated killing of bacteria by mechanical destabilization of the cell envelope. *bioRxiv*, <sup>*</sup>joint first authors. https://doi.org/10.1101/2023.12.10.570986.
+- Benn G<sup>1</sup>; Bortolini C<sup>1</sup>; **Roberts DM**; Pyne ALB; Holden S; Hoogenboom BW (2023). Complement-mediated killing of bacteria by mechanical destabilization of the cell envelope. *bioRxiv*, <sup>1</sup>joint first authors. https://doi.org/10.1101/2023.12.10.570986.
 
 - Whitley KD; Grimshaw J; **Roberts DM**; Karinou E; Stansfeld PJ; Holden S (2023). A one-track model for spatiotemporal coordination of Bacillus subtilis septal cell wall synthesis. *bioRxiv*, https://doi.org/10.1101/2023.06.29.547024 
 
