@@ -18,18 +18,15 @@ If you would like more information about a specific position, or would just like
 
 ## Current
 
-- [Post-doc position in *in vitro* single molecule biophysics](https://warwick-careers.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-4/xf-3f0f50be1f41/spa-1/candidate/so/pm/1/pl/3/opp/407-Research-Fellow-108072-1023/en-GB). *Application deadline: 21 Nov 2023*.
-- [Senior Research Technician in biochemistry and molecular biology](https://warwick-careers.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-4/xf-b32297ec6e4e/spa-1/candidate/so/pm/1/pl/3/opp/405-Senior-Research-Technician-108074-0923/en-GB) - post is joint with [David Roper lab](https://warwick.ac.uk/fac/sci/lifesci/research/droper). *Application deadline: 21 Nov 2023*.
+- Two post-doc positions available! [Postdoctoral researcher in cellular super-resolution microscopy](https://warwick-careers.tal.net/vx/appcentre-ext/brand-4/spa-1/candidate/so/pm/1/pl/3/opp/822-Research-Fellow-107971-0124/en-GB) and [Postdoctoral researcher in single molecule biophysics/ biochemistry of bacterial cell wall synthesis](https://warwick-careers.tal.net/vx/appcentre-ext/brand-4/spa-1/candidate/so/pm/1/pl/3/opp/823-Research-Fellow-108072-0124/en-GB). *Application deadlines: 2nd Feb 2024*
 
 ## Upcoming
+- PhD positions: The primary path to a PhD in the lab is through two excellent doctoral training programmes: the [BBSRC MIBTP PhD training programme](https://warwick.ac.uk/fac/cross_fac/mibtp/) and the [Warwick MRC DTP](https://warwick.ac.uk/fac/sci/med/study/mrcdtp/). We are happy to host both rotation projects and main PhD projects. If you are interested, get in touch by [email](seamus.holden@warwick.ac.uk) Applications to both of these programmes for 2024 entry have closed but if you are interested in applying for next year's programmes please get in touch!
 
-- Post-doc position in super-resolution microscopy and quantitative biology *This post will shortly be advertised*
-- PhD positions: The primary path to a PhD in the lab is through two excellent doctoral training programmes: the [BBSRC MIBTP PhD training programme](https://warwick.ac.uk/fac/cross_fac/mibtp/) and the [Warwick MRC DTP](https://warwick.ac.uk/fac/sci/med/study/mrcdtp/). We are happy to host both rotation projects and main PhD projects. If you are interested, get in touch by [email](seamus.holden@warwick.ac.uk)
+## Undergraduate and MBio research projects
 
-## Undergraduate research projects
-
-Each year we host third year undergraduate projects for Biochemistry and Biomedical Sciences students studying in our department (School of Life Sciences). If you are a student interested in pursuing a project in our lab, you can find out under the "Teaching and Supervision" tab of [Séamus Holden's departmental web page](https://warwick.ac.uk/fac/sci/lifesci/people/sholden/).
+Each year we host third and foruth year undergraduate research projects for Biochemistry and Biomedical Sciences students studying in our department (School of Life Sciences). If you are a third year student interested in pursuing a project in our lab, you can find out under the "Teaching and Supervision" tab of [Séamus Holden's departmental web page](https://warwick.ac.uk/fac/sci/lifesci/people/sholden/). If you are interested in doing a fourth year MBio project in the lab please have a look at our [Research](/research/) page to get a general overview of what we are up to and then please get in touch.
 
 ## Equality statement
 
-In the Holden lab, we welcome and celebrate diversity in all its forms. We particularly welcome applications from women, BAME individuals or persons from backgrounds otherwise historically underrepresented in STEM.
+In the Holden lab, we welcome and celebrate diversity in all its forms. We particularly welcome applications from women, BAME individuals or persons from backgrounds otherwise underrepresented in STEM.
