@@ -37,7 +37,7 @@ Github: <a href="https://github.com/amcmahon1345/filaments">amcmahon1345</a>
 
 <br>
 <br>
-<font size="+3">Papers</font>
+<font size="+2">Papers</font>
 
 <div class="publications">
   {% bibliography -f /papers_andrew %}
