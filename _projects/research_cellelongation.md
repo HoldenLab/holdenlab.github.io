@@ -14,7 +14,7 @@ We focus in particular on how the elongasome works as a nanoscale machine, and h
 We primarily use *Bacillus subtilis* as a model organism for this project, with a little bit of work in *Escherichia coli*.
 
 ## People
-- [Andrew McMahon](projects/mcmahon_andrew/), single molecule biophysicist
+- [Andrew McMahon](_projects/mcmahon_andrew/), single molecule biophysicist
 
 ## Collaborators
 - [Henrik Strahl lab](https://www.ncl.ac.uk/cbcb/staff/profile/hstrahl.html#background)
