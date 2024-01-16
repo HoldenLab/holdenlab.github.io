@@ -44,7 +44,7 @@ Bacteria are surrounded by a peptidoglycan (PG) cell wall which is vital for pro
 <br>
 For bacteria to divide, PG needs to be built inwards at the division site in a precise and coordinated manner without compromising wall integrity (which would result in lysis and cell death). A conserved protein complex, known as the divisome, is critical for initiating and driving cell division, and is composed of cytoskeletal proteins, PG synthesis enzymes and a host of regulatory factors. Since many of the proteins in the divisome are essential, bacterial cell division offers an attractive target for antibiotic discovery.
 <br>
-Using the model Gram-positive bacterium *Bacillus subtilis*, I use a combination of genetics, cell biology and advanced microscopy (single molecule and super-resolution) to study how the proteins and enzymes in the divisome function, both individually and together, to drive the synthesis of septal PG during bacterial division. A longer-term aim is to test our models from *B. subtilis* in a range of other bacterial species, including important pathogens.
+Using the model Gram-positive bacterium <i>Bacillus subtilis</i>, I use a combination of genetics, cell biology and advanced microscopy (single molecule and super-resolution) to study how the proteins and enzymes in the divisome function, both individually and together, to drive the synthesis of septal PG during bacterial division. A longer-term aim is to test our models from <i>B. subtilis</i> in a range of other bacterial species, including important pathogens.
 <br>
 <b>Publications</b>:
 <ul>
