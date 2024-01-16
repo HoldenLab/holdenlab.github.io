@@ -12,15 +12,6 @@ redirect:
   <div class="row">
     <div class="col">
 
-<img src="/assets/img/people/Dave_Roberts_profile.jpg" width="30%">
-<br>
-Email: David.M.Roberts@warwick.ac.uk
-<br>
-
-    </div>
-
-    <div class="col">
-
 <b>Career History</b>
 <ul>
   <li><b>2022-present</b>: Postdoctoral Researcher, School of Life Sciences, University of Warwick. 
@@ -31,6 +22,15 @@ PI: Prof Jeff Errington FMedSci FRS
 Supervisor: Prof Jeff Errington FMedSci FRS; Funder: The Barbour Foundation
   <li><b>2009-2013</b>: MBiolSci (Hons) First Class in Molecular Biology, University of Sheffield
 </ul>
+<br>
+    </div>
+
+    <div class="col">
+
+<img src="/assets/img/people/Dave_Roberts_profile.jpg" width="30%">
+<br>
+Email: David.M.Roberts@warwick.ac.uk
+<br>
 
     </div>
   </div>
