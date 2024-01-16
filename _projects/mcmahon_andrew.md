@@ -14,7 +14,7 @@ related_publications:
     <div class="col">
 
 I completed an MSci in Natural Sciences (Physics) from the University of Cambridge, specialising in biological physics, and completed a part II project on the computational modelling of pressure waves in shock tubes for the use on ciliated membranes. I completed my DPhil thesis at the University of Oxford in the lab of Nicole Robb titled: "Fluorescence imaging and modelling of virus
-structure and infection". Since March 2023, I have been in the lab of Seamus Holden at the University of Warwick working on <a href=https://holdenlab.github.io/projects/research_cellelongation/>bacterial cell elongation</a> using single particle tracking and other SRFM methods.
+structure and infection". Since March 2023, I have been in the lab of Seamus Holden at the University of Warwick working on <a href="https://holdenlab.github.io/projects/research_cellelongation/">bacterial cell elongation</a>.
 <br>
 <br>
 Email: andrew.mcmahon@warwick.ac.uk
@@ -33,5 +33,3 @@ Email: andrew.mcmahon@warwick.ac.uk
 </div>
 
 <div class="publications">
-
-{% bibliography -f /papers_andrew %}
