@@ -1,11 +1,9 @@
 ---
 layout: page
-title: 
+title: Simone Coppola
 description: 
-img: assets/img/people/
+img: assets/img/people/Simone_profile.png
 importance: 5
 category: current
 redirect: 
 ---
-
-Simone is going to work on **cool stuff**
