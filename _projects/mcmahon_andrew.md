@@ -18,6 +18,9 @@ structure and infection". Since March 2023, I have been in the lab of Seamus Hol
 <br>
 <br>
 Email: andrew.mcmahon@warwick.ac.uk
+<br>
+<br>
+Github: <a href="https://github.com/amcmahon1345/filaments">amcmahon1345</a>
 
     </div>
 
