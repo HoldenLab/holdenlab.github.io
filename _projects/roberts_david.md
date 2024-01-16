@@ -24,11 +24,12 @@ redirect:
       <br>
       <b>2009-2013</b>: MBiolSci (Hons) First Class in Molecular Biology, University of Sheffield
       <br>
+      <br>
       Email: David.M.Roberts@warwick.ac.uk
     </div>
 
     <div class="col">
-      {% include figure.html path="assets/img/people/Dave_Roberts_profile.jpg" class="img-fluid rounded z-depth-1" width="50%" %}   
+      {% include figure.html path="assets/img/people/Dave_Roberts_profile.jpg" class="img-fluid rounded z-depth-1" width="65%" %}   
     </div>
   </div>
 </div>
