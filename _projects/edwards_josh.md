@@ -10,7 +10,7 @@ redirect:
 
 <div class="page">
 
-<img src="assets/img/people/josh_edwards_profile.jpg" width="60%">
+<img src="/assets/img/people/josh_edwards_profile.jpg" width="60%">
 
 <p>I work on the development of advanced microscopes including leading the 
 <a href="https://holdenlab.github.io/LifeHackWebsite">LifeHack microscope</a> microscope project</p>
