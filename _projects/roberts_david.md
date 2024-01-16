@@ -8,10 +8,9 @@ category: current
 redirect: 
 ---
 
-<img src="/assets/img/people/Dave_Roberts_profile.jpg" width="35%">
+<img src="/assets/img/people/Dave_Roberts_profile.jpg" width="30%">
 <br>
 <p>Email: David.M.Roberts@warwick.ac.uk</p>
-<br>
 
 **Career History**
 - **2022-present:** Postdoctoral Researcher, School of Life Sciences, University of Warwick. 
