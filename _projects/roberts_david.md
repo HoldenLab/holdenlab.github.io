@@ -12,6 +12,7 @@ redirect:
   <div class="row">
     <div class="col">
       <b>Career History</b>
+      <br>
       <br>		
       <b>2022-present</b>: Postdoctoral Researcher, School of Life Sciences, University of Warwick. 
       PI: Dr Seamus Holden
@@ -29,7 +30,7 @@ redirect:
     </div>
 
     <div class="col">
-      {% include figure.html path="assets/img/people/Dave_Roberts_profile.jpg" class="img-fluid rounded z-depth-1" width="65%" %}   
+      {% include figure.html path="assets/img/people/Dave_Roberts_profile.jpg" class="img-fluid rounded z-depth-1" width="75%" %}   
     </div>
   </div>
 </div>
