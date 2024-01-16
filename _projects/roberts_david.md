@@ -9,13 +9,13 @@ redirect:
 ---
 
 **Career History**
-**2022-present:** Postdoctoral Researcher, School of Life Sciences, University of Warwick. 
+- **2022-present:** Postdoctoral Researcher, School of Life Sciences, University of Warwick. 
 PI: Dr Seamus Holden
-**2018-2022**: Postdoctoral Researcher, Centre for Bacterial Cell Biology, Newcastle University. 
+- **2018-2022**: Postdoctoral Researcher, Centre for Bacterial Cell Biology, Newcastle University. 
 PI: Prof Jeff Errington FMedSci FRS
-**2013-2017**: PhD in Molecular Microbiology, Newcastle University
+- **2013-2017**: PhD in Molecular Microbiology, Newcastle University
 Supervisor: Prof Jeff Errington FMedSci FRS; Funder: The Barbour Foundation
-**2009-2013**: MBiolSci (Hons) First Class in Molecular Biology, University of Sheffield
+- **2009-2013**: MBiolSci (Hons) First Class in Molecular Biology, University of Sheffield
 
 **Current Research**
 My research in the Holden lab is focussed on one of the most fundamental questions in microbiology: how one bacterial cell divides into two.
