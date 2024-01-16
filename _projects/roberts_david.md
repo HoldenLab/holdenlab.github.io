@@ -26,7 +26,7 @@ Supervisor: Prof Jeff Errington FMedSci FRS; Funder: The Barbour Foundation
     </div>
 
     <div class="col">
-    {% include figure.html path="assets/img/people/andrew_mcmahon_profile.jpg" class="img-fluid rounded z-depth-1" width="70%" %} img src="/assets/img/people/Dave_Roberts_profile.jpg" width="30%">
+    {% include figure.html path="assets/img/people/Dave_Roberts_profile.jpg" class="img-fluid rounded z-depth-1" width="50%" %} 
     <br>
     Email: David.M.Roberts@warwick.ac.uk
     <br>
@@ -57,7 +57,7 @@ Using the model Gram-positive bacterium <i>Bacillus subtilis</i>, I use a combin
 <br>
   <li> Middlemiss S; <b>Roberts DM</b>; Grimshaw J; Edwards JM; Sun Z; Whitley KD; Blu T; Strahl H; Holden S (2023). Molecular motor tug-of-war regulates elongasome cell wall synthesis dynamics in Bacillus subtilis. <i>bioRxiv</i>, <a href="https://doi.org/10.1101/2023.05.10.540107">https://doi.org/10.1101/2023.05.10.540107</a>
 <br>
-  <li> <b>Roberts DM</b> (2023). A new role for monomeric ParA/Soj in chromosome dynamics in Bacillus subtilis. <i>MicrobiologOpen</i>, <b>12</b>, e1344. <a href="https://doi.org/10.1002/mbo3.1344">https://doi.org/10.1002/mbo3.1344</a>
+  <li> <b>Roberts DM</b> (2023). A new role for monomeric ParA/Soj in chromosome dynamics in Bacillus subtilis. <i>MicrobiologyOpen</i>, <b>12</b>, e1344. <a href="https://doi.org/10.1002/mbo3.1344">https://doi.org/10.1002/mbo3.1344</a>
 <br>
   <li> <b>Roberts DM</b>; Anchimiuk A; Kloosterman TG; Murray H; Wu LJ; Gruber S; Errington J (2022). Chromosome remodelling by SMC/Condensin in B. subtilis is regulated by monomeric Soj/ParA during growth and sporulation. <i>Proceedings of the National Academy of Sciences USA</i>, <b>119</b>, e2204042119. <a href="https://doi.org/10.1073/pnas.2204042119">https://doi.org/10.1073/pnas.2204042119</a>
 <br>
