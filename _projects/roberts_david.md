@@ -60,4 +60,10 @@ Using the model Gram-positive bacterium *Bacillus subtilis*, I use a combination
 
 - Kloosterman TG; Lenarcic R; Willis CR; **Roberts DM**; Hamoen LW; Errington J; Wu LJ (2016). Complex polar machinery required for proper chromosome segregation in vegetative and sporulating cells of Bacillus subtilis. *Molecular Microbiology*, **101**, 333-350. https://doi.org/10.1111/mmi.13393
 
+
 - Pietroni P; Vasisht N; Cook JP; **Roberts DM**; Lord JM; Hartmann-Petersen R; Roberts LM; Spooner RA (2013). The proteasome cap RPT5/Rpt5p subunit prevents aggregation of unfolded ricin A chain. *Biochemical Journal*, **453**, 435-445. https://doi.org/10.1042/BJ20130133</p> 
+
+
+</div>
+</div>
+
