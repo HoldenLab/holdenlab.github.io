@@ -9,6 +9,11 @@ redirect:
 ---
 
 <div class="page">
+    <div class="row">
+        <div class="column"></div>
+        <div class="column"></div>
+        <img src="/assets/img/people/josh_edwards_profile.jpg" width="60%">
+    </div> 
 
 <img src="/assets/img/people/josh_edwards_profile.jpg" width="60%">
 
