@@ -27,6 +27,8 @@ structure and infection". Since March 2023, I have been in the lab of Seamus Hol
   </div>
 </div>
 
+<div class="publications">
+
 @article{mcmahon2023filamentousViruses,
     doi = {10.1371/journal.ppat.1011484},
     author = {McMahon, Andrew AND Andrews, Rebecca AND Groves, Danielle AND Ghani, Sohail V. AND Cordes, Thorben AND Kapanidis, Achillefs N. AND Robb, Nicole C.},
