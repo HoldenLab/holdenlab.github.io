@@ -8,7 +8,7 @@ category: current
 redirect: 
 ---
 
-!--<div class="page">
+<div class="page">
 
 <img src="assets/img/people/josh_edwards_profile.jpg" width="60%">
 
