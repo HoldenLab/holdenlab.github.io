@@ -8,6 +8,9 @@ category: current
 redirect: 
 ---
 
+<img src="/assets/img/people/Dave_Roberts_profile.jpg" width="50%">
+
+
 **Career History**
 - **2022-present:** Postdoctoral Researcher, School of Life Sciences, University of Warwick. 
 PI: Dr Seamus Holden
