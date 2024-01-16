@@ -11,6 +11,19 @@ redirect:
 <div class="container">
   <div class="row">
     <div class="col">
+      <b>Career History</b>
+      <br>		
+      <b>2022-present</b>: Postdoctoral Researcher, School of Life Sciences, University of Warwick. 
+      PI: Dr Seamus Holden
+      <br>
+      <b>2018-2022</b>: Postdoctoral Researcher, Centre for Bacterial Cell Biology, Newcastle University. 
+      PI: Prof Jeff Errington FMedSci FRS
+      <br>
+      <b>2013-2017</b>: PhD in Molecular Microbiology, Newcastle University.
+      Supervisor: Prof Jeff Errington FMedSci FRS; Funder: The Barbour Foundation
+      <br>
+      <b>2009-2013</b>: MBiolSci (Hons) First Class in Molecular Biology, University of Sheffield
+      <br>
       Email: David.M.Roberts@warwick.ac.uk
     </div>
 
@@ -20,11 +33,7 @@ redirect:
   </div>
 </div>
 
-Bacteria are surrounded by a peptidoglycan (PG) cell wall which is vital for protecting the cell from lysis due to the high internal osmotic pressure, and in rod-shaped bacteria is also critical for cell shape. Furthermore, PG synthesis is a major target for some of our most effective antibiotics (e.g. the penicillin’s) and is therefore a process of immense current interest.
-
 <div class="container">
-  <div class="row">
-
     <b>Current Research</b>
 
     Since joining the Holden lab in October 2022, my research has been focussed on one of the most fundamental questions in microbiology: <a href="https://holdenlab.github.io/projects/research_celldiv/">how one bacterial cell divides into two</a>.
@@ -58,7 +67,5 @@ Bacteria are surrounded by a peptidoglycan (PG) cell wall which is vital for pro
       <li> Kloosterman TG; Lenarcic R; Willis CR; <b>Roberts DM</b>; Hamoen LW; Errington J; Wu LJ (2016). Complex polar machinery required for proper chromosome segregation in vegetative and sporulating cells of Bacillus subtilis. <i>Molecular Microbiology</i>, <b>101</b>, 333-350. <a href="https://doi.org/10.1111/mmi.13393">https://doi.org/10.1111/mmi.13393</a>
     <br>
     <li> Pietroni P; Vasisht N; Cook JP; <b>Roberts DM</b>; Lord JM; Hartmann-Petersen R; Roberts LM; Spooner RA (2013). The proteasome cap RPT5/Rpt5p subunit prevents aggregation of unfolded ricin A chain. <i>Biochemical Journal</i>, <b>453</b>, 435-445. <a href="https://doi.org/10.1042/BJ20130133">https://doi.org/10.1042/BJ20130133</a></li>
-
-  </div>
 </div>
 
