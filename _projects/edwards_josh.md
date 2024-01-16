@@ -8,6 +8,6 @@ category: current
 redirect: 
 ---
 
-![image](assets/img/people/josh_edwards_profile.jpg)
+<img src="assets/img/people/josh_edwards_profile.jpg" width="60%">
 
 I work on the development of advanced microscopes including leading the [LifeHack](https://holdenlab.github.io/LifeHackWebsite/) microscope project

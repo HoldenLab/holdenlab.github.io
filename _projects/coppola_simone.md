@@ -7,8 +7,6 @@ importance: 2
 category: current
 redirect: 
 ---
-
-{% include figure.liquid path="assets/img/people/Simone_profile.png" class="img-fluid rounded z-depth-1" %}
 Simone is developing image processing and data analysis tools for microscopy.
 
 
