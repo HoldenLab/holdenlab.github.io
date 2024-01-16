@@ -8,10 +8,6 @@ category: current
 redirect: 
 ---
 
-<div class="container">
-  <div class="row">
-    <div class="col">
-
 **Career History**
 - **2022-present:** Postdoctoral Researcher, School of Life Sciences, University of Warwick. 
 PI: Dr Seamus Holden
@@ -21,13 +17,6 @@ PI: Prof Jeff Errington FMedSci FRS
 Supervisor: Prof Jeff Errington FMedSci FRS; Funder: The Barbour Foundation
 - **2009-2013**: MBiolSci (Hons) First Class in Molecular Biology, University of Sheffield
 
-</div>
-
-    <div class="col">
-        {% include figure.html path="assets/img/people/Dave_Roberts_profile.jpg" class="img-fluid rounded z-depth-1" %}
-    </div>
-  </div>
-  <div class="row">
 
 **Current Research**
 
