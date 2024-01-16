@@ -24,9 +24,9 @@ Github: <a href="https://github.com/amcmahon1345/filaments">amcmahon1345</a>
 
     </div>
 
-    <div class="col"><P align="right">
+    <div class="col">
         {% include figure.html path="assets/img/people/andrew_mcmahon_profile.jpg" class="img-fluid rounded z-depth-1" width="70%" %}
-    <\P></div>
+    </div>
   </div>
   <div class="row">
 
