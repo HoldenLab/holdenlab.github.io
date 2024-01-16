@@ -21,7 +21,7 @@ Supervisor: Prof Jeff Errington FMedSci FRS; Funder: The Barbour Foundation
 
 My research in the Holden lab is focussed on one of the most fundamental questions in microbiology: how one bacterial cell divides into two.
 
-Bacteria are surrounded by a peptidoglycan (PG) cell wall which is vital for protecting the cell for lysis due to the high internal osmotic pressure, and in rod-shaped bacteria is also critical for cell shape. Furthermore, PG synthesis is a major target for some of our most effective antibiotics (e.g. the penicillin’s) and is therefore a process of immense current interest.
+Bacteria are surrounded by a peptidoglycan (PG) cell wall which is vital for protecting the cell from lysis due to the high internal osmotic pressure, and in rod-shaped bacteria is also critical for cell shape. Furthermore, PG synthesis is a major target for some of our most effective antibiotics (e.g. the penicillin’s) and is therefore a process of immense current interest.
 
 For bacteria to divide, PG needs to be built inwards at the division site in a precise and coordinated manner without compromising wall integrity (which would result in lysis and cell death). A conserved protein complex, known as the divisome, is critical for initiating and driving cell division, and is composed of cytoskeletal proteins, PG synthesis enzymes and a host of regulatory factors. Since many of the proteins in the divisome are essential, bacterial cell division offers an attractive target for antibiotic discovery.
 
