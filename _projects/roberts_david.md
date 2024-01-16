@@ -7,9 +7,11 @@ importance: 1
 category: current
 redirect: 
 ---
-<div class="container">
-  <div class="row">
-    <div class="col">
+
+<img src="/assets/img/people/Dave_Roberts_profile.jpg" width="35%">
+<br>
+<p>Email: David.M.Roberts@warwick.ac.uk</p>
+<br>
 
 **Career History**
 - **2022-present:** Postdoctoral Researcher, School of Life Sciences, University of Warwick. 
@@ -18,29 +20,7 @@ PI: Dr Seamus Holden
 PI: Prof Jeff Errington FMedSci FRS
 - **2013-2017**: PhD in Molecular Microbiology, Newcastle University.
 Supervisor: Prof Jeff Errington FMedSci FRS; Funder: The Barbour Foundation
-- **2009-2013**: MBiolSci (Hons) First Class in Molecular Biology, University of Sheffield
-
-    </div>
-
-    <div class="col">  
-
-<img src="/assets/img/people/Dave_Roberts_profile.jpg" width="20%">
-<br>
-Email: David.M.Roberts@warwick.ac.uk
-<br>
-    </div>
-  </div>
-  <div class="row"> 
-
-
-**Career History**
-- **2022-present:** Postdoctoral Researcher, School of Life Sciences, University of Warwick. 
-PI: Dr Seamus Holden
-- **2018-2022**: Postdoctoral Researcher, Centre for Bacterial Cell Biology, Newcastle University. 
-PI: Prof Jeff Errington FMedSci FRS
-- **2013-2017**: PhD in Molecular Microbiology, Newcastle University.
-Supervisor: Prof Jeff Errington FMedSci FRS; Funder: The Barbour Foundation
-- **2009-2013**: MBiolSci (Hons) First Class in Molecular Biology, University of Sheffield
+- **2009-2013**: MBiolSci (Hons) First Class in Molecular Biology, University of Sheffield</p>
 
 
 **Current Research**
@@ -70,7 +50,5 @@ Using the model Gram-positive bacterium *Bacillus subtilis*, I use a combination
 
 - Kloosterman TG; Lenarcic R; Willis CR; **Roberts DM**; Hamoen LW; Errington J; Wu LJ (2016). Complex polar machinery required for proper chromosome segregation in vegetative and sporulating cells of Bacillus subtilis. *Molecular Microbiology*, **101**, 333-350. https://doi.org/10.1111/mmi.13393
 
-- Pietroni P; Vasisht N; Cook JP; **Roberts DM**; Lord JM; Hartmann-Petersen R; Roberts LM; Spooner RA (2013). The proteasome cap RPT5/Rpt5p subunit prevents aggregation of unfolded ricin A chain. *Biochemical Journal*, **453**, 435-445. https://doi.org/10.1042/BJ20130133 
+- Pietroni P; Vasisht N; Cook JP; **Roberts DM**; Lord JM; Hartmann-Petersen R; Roberts LM; Spooner RA (2013). The proteasome cap RPT5/Rpt5p subunit prevents aggregation of unfolded ricin A chain. *Biochemical Journal*, **453**, 435-445. https://doi.org/10.1042/BJ20130133
 
-</div>
-</div>

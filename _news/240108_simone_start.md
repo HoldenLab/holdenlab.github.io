@@ -7,7 +7,7 @@ related_posts: false
 ---
 
 Today Dr Simone Coppola joined the Holden lab as a postdoctoral researcher.
-Simone will be working on developing microscopy images processing and analysis tools.
+Simone will be working on developing microscopy image processing and analysis tools.
 Welcome to the lab, Simone!
 
 <div class="row mt-3">
