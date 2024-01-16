@@ -34,4 +34,4 @@ Email: andrew.mcmahon@warwick.ac.uk
 
 <div class="publications">
 
-{% bibliography -f /papers_andrew/ %}
+{% bibliography -f /papers_andrew %}
