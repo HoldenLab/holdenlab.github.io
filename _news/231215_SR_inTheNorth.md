@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2023-12-15
-title: The lab goes to York for sbuper resolution in the North 
+title: The lab goes to York for super resolution in the North 
 inline: false
 related_posts: false
 ---
