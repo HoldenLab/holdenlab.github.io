@@ -6,7 +6,7 @@ img: assets/img/people/andrew_mcmahon_profile.jpg
 importance: 2
 category: current
 redirect: 
-related_publications: mcmahon2023filamentousViruses, mcmahon2020reinfection, shiaelis2022detection
+related_publications:
 ---
 
 <div class="container">
@@ -14,7 +14,9 @@ related_publications: mcmahon2023filamentousViruses, mcmahon2020reinfection, shi
     <div class="col">
 
 I completed an MSci in Natural Sciences (Physics) from the University of Cambridge, specialising in biological physics, and completed a part II project on the computational modelling of pressure waves in shock tubes for the use on ciliated membranes. I completed my DPhil thesis at the University of Oxford in the lab of Nicole Robb titled: "Fluorescence imaging and modelling of virus
-structure and infection". Since March 2023, I have been in the lab of Seamus Holden at the University of Warwick working on [bacterial cell elongation](https://holdenlab.github.io/projects/research_cellelongation/) using single particle tracking and other SRFM methods.
+structure and infection". Since March 2023, I have been in the lab of Seamus Holden at the University of Warwick working on <a href=https://holdenlab.github.io/projects/research_cellelongation/>bacterial cell elongation</a> using single particle tracking and other SRFM methods.
+
+Email: andrew.mcmahon@warwick.ac.uk
 
     </div>
 
@@ -23,7 +25,9 @@ structure and infection". Since March 2023, I have been in the lab of Seamus Hol
     </div>
   </div>
   <div class="row">
-  Something about what I do now.
+
+  Almost all bacteria are surrounded by a peptidoglycan (PG) cell wall which allows bacteria to withstand high internal turgor pressures. The bacterial cell wall is of critical medical importance as the key target of our most widely used antibiotics such as the penicillins and cephalosporins. During cell growth, most PG synthesis is carried out by a multi-protein complex called the elongasome, which inserts PG strands processively around the cell circumference. The elongasome functions by building a growing PG polymer out of lipid II building blocks and attaching it to the existing cell wall material. My current research is investigating the cell wall building processes using single particle tracking (SPT) and SRFM. 
+
   </div>
 </div>
 
