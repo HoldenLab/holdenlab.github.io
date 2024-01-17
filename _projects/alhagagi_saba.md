@@ -11,6 +11,7 @@ redirect:
   <div class="row">
     <div class="col">
 <b>About Me</b>
+<br>
 
 I am studying an Integrated Master’s (MBio) in Biomedical Science at the University of Warwick. I joined the Holden lab in October 2023. 
 <br>
@@ -26,7 +27,7 @@ I have also worked in various clinical microbiology labs, studying microbe-micro
     </div>
 
     <div class="col">
-        {% include figure.html path="assets/img/people/saba_alhagagi_profile.jpg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/people/Saba_Alhagagi_profile.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
   </div>
   <div class="row">
