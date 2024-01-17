@@ -26,9 +26,9 @@ Email: <saba.alhagagi@warwick.ac.uk>
 <br>
 
 
-    </div>
+  </div>
 
-    <div class="col">
+  <div class="col">
         {% include figure.html path="assets/img/people/Saba_Alhagagi_profile.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
   </div>
