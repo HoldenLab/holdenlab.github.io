@@ -26,7 +26,7 @@ I have also worked in various clinical microbiology labs, studying microbe-micro
     </div>
 
     <div class="col">
-        {% include figure.html path="assets/img/people/saba_alhagagi_profile.jpg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/people/andrew_mcmahon_profile.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
   </div>
   <div class="row">
