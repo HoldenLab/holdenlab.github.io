@@ -10,33 +10,27 @@ redirect:
 <div class="container">
   <div class="row">
     <div class="col">
-
-<b>About me</b>
-
-
-I am studying an Integrated Master’s (MBio) in Biomedical Science at the University of Warwick. I joined the Holden lab in October 2023. 
+<b>About Me</b>
 <br>
 <br>
-I completed my 3rd year dissertation project in <a href="(https://www.yinchenlab.org)">Professor Yin Chen's lab</a>, exploring how pathogenic bacteria, specifically Burkholderia cenocepacia, can remodel their lipid and membrane compositions in response to phosphate limitation. 
+I am studying an Integrated Master’s (MBio) in Biomedical Science at the University of Warwick. I joined the Holden lab in October 2023. I completed my 3rd year dissertation project in Professor Yin Chen's lab, exploring how pathogenic bacteria, specifically Burkholderia cenocepacia, can remodel their lipid and membrane compositions in response to phosphate limitation. 
 
 I have also worked in various clinical microbiology labs, studying microbe-microbe interactions in Cystic Fibrosis, and division of labour phenotypes in fungal populations. These projects have been funded by the Wellcome Trust and the British Mycological Society, respectively. 
-
-
+<br>
+<br>
 Email: <saba.alhagagi@warwick.ac.uk>
 <br>
+<br>
 
+    </div>
 
-  </div>
-
-  <div class="col">
-        {% include figure.html path="assets/img/people/Saba_Alhagagi_profile.jpg" class="img-fluid rounded z-depth-1" %}
+    <div class="col">
+        {% include figure.html path="assets/img/people/andrew_mcmahon_profile.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
   </div>
   <div class="row">
 
-
-
-<b>Current Research</b>
+  <b>Current Research</b>
 
 Our lab studies how bacterial cells grow and divide, but understanding how these protein complexes are organised can be challenging due of their dynamic and mobile nature.   
 
