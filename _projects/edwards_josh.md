@@ -18,11 +18,11 @@ redirect:
         <div class="col">
             <img src="/assets/img/people/josh_edwards_profile.jpg" width="100%">
         </div>
-        <video src="/assets/img/Video/Microscope-Full-animation.mp4" width="90%" controls autoplay muted></video>
     </div>
+    <h2>LifeHack Microscope</h2>
+    <video src="/assets/img/Video/Microscope-Full-animation.mp4" width="90%" controls autoplay muted></video>
 
-
-
+    <h2>ImLock Sample Stabilisation</h2>
 
 
 
