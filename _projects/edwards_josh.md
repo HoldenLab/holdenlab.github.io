@@ -23,11 +23,9 @@ redirect:
     <h3>LifeHack Microscope</h3>
     <hr>
     <p>the LifeHack microscope is fully capable of SMLM and live cell imaging. Unlike commercial microscopes however, it is intended to be equally useful as a development platform from which to build specialised systems to solve cutting edge problems.</p>
-    <video src="/assets/img/Video/Microscope-Full-animation.mp4" width="90%" style="margin-bottom:3cm;" controls autoplay muted></video>
-    <br>
+    <video src="/assets/img/Video/Microscope-Full-animation.mp4" width="90%" style="margin-bottom:1cm;" controls autoplay muted></video>
     <h3>ImLock Sample Stabilisation</h3>
     <hr>
-    <img src="/assets/img/people/josh_edwards_profile.jpg" width="100%">
     <p>ImLock is an infra-red, image based, 3D sample drift correction tool. Using a hybrid live/post-hoc correction technique I have been able to achieve long term sample stability of ~5nm in Z and ~2nm in XY.</p>
 
     
