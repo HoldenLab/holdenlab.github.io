@@ -21,16 +21,13 @@ redirect:
             <img src="/assets/img/people/josh_edwards_profile.jpg" width="100%">
         </div>
     </div>
-    <h3>My Projects</h3>
-    <h4>LifeHack Microscope</h4>
+    <h4>My Projects</h4>
     <hr>
+    <h5>LifeHack Microscope</h5>
     <p>The LifeHack microscope is an open-source microscopy project capable of SMLM and live cell imaging surpassing existing commercial systems. It is intended to be equally useful as designed or as a development platform from which to build specialised systems to solve cutting edge problems.</p>
     <video src="/assets/img/Video/Microscope-Full-animation.mp4" width="90%" style="margin-bottom:1cm;" controls autoplay muted></video>
     <p>The microscope is constructed from commercially available and 3D printed parts to simplify the build process and comprehensive parts lists, CAD files, and build/setup instructions are available through a <a href="https://holdenlab.github.io/LifeHackWebsite">custom website</a> to allow straightforward construction of the microscope.</p>
-    <h4>ImLock Sample Stabilisation</h4>
-    <hr>
+    <h5>ImLock Sample Stabilisation</h5>
     <p>ImLock is an infra-red, image based, 3D microscope drift correction tool. It operates as a micromanager plugin and with minimal additional hardware making it addible to any system. Using a hybrid live/post-hoc correction technique I have been able to achieve long term sample stability of <b>~5nm</b> in Z and <b>~2nm</b> in X and Y.</p>
-
-    
 
 </div>
