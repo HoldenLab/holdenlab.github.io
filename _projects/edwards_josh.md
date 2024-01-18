@@ -26,7 +26,7 @@ redirect:
     <video src="/assets/img/Video/Microscope-Full-animation.mp4" width="90%" style="margin-bottom:1cm;" controls autoplay muted></video>
     <h3>ImLock Sample Stabilisation</h3>
     <hr>
-    <p>ImLock is an infra-red, image based, 3D sample drift correction tool. Using a hybrid live/post-hoc correction technique I have been able to achieve long term sample stability of ~5nm in Z and ~2nm in XY.</p>
+    <p>ImLock is an infra-red, image based, 3D microscope drift correction tool. It operates as a micromanager plugin and with minimal additional hardware making it addible to any system. Using a hybrid live/post-hoc correction technique I have been able to achieve long term sample stability of <b>~5nm</b> in Z and <b>~2nm</b> in X and Y.</p>
 
     
 
