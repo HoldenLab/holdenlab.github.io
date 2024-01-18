@@ -22,11 +22,12 @@ redirect:
     <br>
     <h3>LifeHack Microscope</h3>
     <hr>
+    <p>the LifeHack microscope is fully capable of SMLM and live cell imaging. Unlike commercial microscopes however, it is intended to be equally useful as a development platform from which to build specialised systems to solve cutting edge problems.</p>
     <video src="/assets/img/Video/Microscope-Full-animation.mp4" width="90%" controls autoplay muted></video>
     <br>
     <h3>ImLock Sample Stabilisation</h3>
     <hr>
 
-
+    
 
 </div>
