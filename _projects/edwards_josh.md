@@ -11,6 +11,7 @@ redirect:
 <div class="page">
     <div class="row">
         <div class="col">
+            <h4>About Me</h4>
             <p>I studied for an MPhys in physics at the Univeristy of Kent from 2015-2019. During this time I completed two internships in the <a href="https://micronoxford.com/">Micron Bioimaging facility</a> at Oxford Univeristy developing python code to asses abberations in adaptive optics systems and to identify regions of interest in biological samples using machine learining. For my masters project I joined Kent's <a href="https://research.kent.ac.uk/applied-optics/">Applied Optics Group</a> where I worked on a remote focusing infra-red <a href="https://www.nature.com/articles/s43586-022-00162-2">optical coherence microscope</a> for the optical biopsy of skin cancers.</p>
             <p>During my PhD I have developed advanced microscopes including leading the <a href="https://holdenlab.github.io/LifeHackWebsite">LifeHack microscope</a> project.</p>
             <p>I have a strong passion for open science and so all of my work is available through the LifeHack microscope website and the Holden Lab <a href="https://github.com/HoldenLab">GitHub</a></p>
