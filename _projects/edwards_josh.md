@@ -13,18 +13,18 @@ redirect:
         <div class="col">
             <p>I studied for an MPhys in physics at the Univeristy of Kent from 2015-2019. During this time I completed two internships in the <a href="https://micronoxford.com/">Micron Bioimaging facility</a> at Oxford Univeristy developing python code to asses abberations in adaptive optics systems and to identify regions of interest in biological samples using machine learining. For my masters project I joined Kent's <a href="https://research.kent.ac.uk/applied-optics/">Applied Optics Group</a> where I worked on a remote focusing infra-red <a href="https://www.nature.com/articles/s43586-022-00162-2">optical coherence microscope</a> for the optical biopsy of skin cancers.</p>
             <p>During my PhD I have developed advanced microscopes including leading the <a href="https://holdenlab.github.io/LifeHackWebsite">LifeHack microscope</a> project.</p>
-            <p>I have a strong passion for open science and so all of my work is available through the LifeHack microscope website and the Holden Lab<a href="https://github.com/HoldenLab">GitHub</a></p>
+            <p>I have a strong passion for open science and so all of my work is available through the LifeHack microscope website and the Holden Lab <a href="https://github.com/HoldenLab">GitHub</a></p>
         </div>
         <div class="col">
             <img src="/assets/img/people/josh_edwards_profile.jpg" width="100%">
         </div>
     </div>
-    <h2>LifeHack Microscope</h2>
     <br>
+    <h3>LifeHack Microscope</h2>
     <hr>
     <video src="/assets/img/Video/Microscope-Full-animation.mp4" width="90%" controls autoplay muted></video>
     <br>
-    <h2>ImLock Sample Stabilisation</h2>
+    <h3>ImLock Sample Stabilisation</h2>
     <hr>
 
 
