@@ -20,10 +20,12 @@ redirect:
         </div>
     </div>
     <h2>LifeHack Microscope</h2>
+    <br>
+    <hr>
     <video src="/assets/img/Video/Microscope-Full-animation.mp4" width="90%" controls autoplay muted></video>
-
+    <br>
     <h2>ImLock Sample Stabilisation</h2>
-
+    <hr>
 
 
 
