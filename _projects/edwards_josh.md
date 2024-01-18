@@ -29,5 +29,6 @@ redirect:
     <p>The microscope is constructed from commercially available and 3D printed parts to simplify the build process and comprehensive parts lists, CAD files, and build/setup instructions are available through a <a href="https://holdenlab.github.io/LifeHackWebsite">custom website</a> to allow straightforward construction of the microscope.</p>
     <h5>ImLock Sample Stabilisation</h5>
     <p>ImLock is an infra-red, image based, 3D microscope drift correction tool. It operates as a micromanager plugin and with minimal additional hardware making it addible to any system. Using a hybrid live/post-hoc correction technique I have been able to achieve long term sample stability of <b>~5nm</b> in Z and <b>~2nm</b> in X and Y.</p>
+    <p>The code is available on GitHub <a href="https://github.com/HoldenLab/DeepAutoFocus/releases">here</a> and detailed documentation can be found <a href="https://holdenlab.github.io/LifeHackWebsite/ImageAutofocus.html">here</a>.</p>
 
 </div>
