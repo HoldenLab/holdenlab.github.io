@@ -16,7 +16,7 @@ social: true  # includes social icons at the bottom of the page
     </div>
 </div>
 
-<div class="Slideshow" style="max-width:500px">
+<div class="Slideshow">
   <img class="mySlides" src="/assets/img/240119_LabPhoto.JPG" style="width:100%;border-radius:5px;">
   <img class="mySlides" src="/assets/img/STORM B sub cell wall crop.png" style="width:100%;border-radius:5px;">
 </div>
