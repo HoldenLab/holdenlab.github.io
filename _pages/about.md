@@ -17,8 +17,8 @@ social: true  # includes social icons at the bottom of the page
 </div>
 
 <div class="Slideshow" style="max-width:500px">
-  <img class="mySlides" src="/assets/img/240119_LabPhoto.JPG" style="width:100%">
-  <img class="mySlides" src="/assets/img/STORM B sub cell wall crop.png" style="width:100%">
+  <img class="mySlides" src="/assets/img/240119_LabPhoto.JPG" style="width:100%;border-radius:5px;">
+  <img class="mySlides" src="/assets/img/STORM B sub cell wall crop.png" style="width:100%;border-radius:5px;">
 </div>
 
 
@@ -50,6 +50,6 @@ Key research themes:
         myIndex++;
         if (myIndex > x.length) {myIndex = 1}    
         x[myIndex-1].style.display = "block";  
-        setTimeout(carousel, 3000); // Change image every 2 seconds
+        setTimeout(carousel, 4000); // Change image every 2 seconds
     }
 </script>
