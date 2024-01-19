@@ -18,7 +18,7 @@ redirect:
             <p>I have a strong passion for open science and so all of my work is available through the LifeHack microscope website and the Holden Lab <a href="https://github.com/HoldenLab">GitHub</a></p>
         </div>
         <div class="col">
-            <img src="/assets/img/people/josh_edwards_profile.jpg" width="100%" syle="border-radius:5px;">
+            <img src="/assets/img/people/josh_edwards_profile.jpg" width="100%" style="border-radius:5px;">
         </div>
     </div>
     <h4>My Projects</h4>
