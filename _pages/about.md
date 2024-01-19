@@ -10,17 +10,17 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-<div class="row">
+<!--<div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/STORM B sub cell wall crop.png" title="STORM microscopy of the Bacillus subtilis cell wall" class="img-fluid rounded z-depth-1" %}
     </div>
+</div>-->
+<div class="row">
+    <div class="Slideshow">
+        <img class="mySlides" src="/assets/img/BannerPhotos/240119_LabPhotoCrop.JPG" style="width:100%;border-radius:5px;">
+        <img class="mySlides" src="/assets/img/BannerPhotos/STORM B sub cell wall crop.png" style="width:100%;border-radius:5px;">
+    </div>
 </div>
-
-<div class="Slideshow">
-  <img class="mySlides" src="/assets/img/BannerPhotos/240119_LabPhotoCrop.JPG" style="width:100%;border-radius:5px;">
-  <img class="mySlides" src="/assets/img/BannerPhotos/STORM B sub cell wall crop.png" style="width:100%;border-radius:5px;">
-</div>
-
 
 
 Welcome to the Holden Lab website! 
