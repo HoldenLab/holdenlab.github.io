@@ -3,7 +3,7 @@ layout: page
 title: Simone Coppola
 description: Postdoctoral fellow
 img: assets/img/people/Simone_profile.png
-importance: 2
+importance: 3
 category: current
 redirect: 
 ---
