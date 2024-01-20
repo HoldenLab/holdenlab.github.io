@@ -10,27 +10,12 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-<head>
-<style>
-    /* Fading animation */
-.fade {
-  animation-name: fade;
-  animation-duration: 1s;
-}
-
-@keyframes fade {
-  from {opacity: .4} 
-  to {opacity: 1}
-}
-</style>
-</head>
-
 
 <div class="row">
     <div class="Slideshow" style="margin-bottom:1cm;">
-        <img class="Slides fade" src="/assets/img/BannerPhotos/240119_LabPhotoCrop.JPG" style="width:100%;border-radius:5px;">
-        <img class="Slides fade" src="/assets/img/BannerPhotos/STORM B sub cell wall crop.png" style="width:100%;border-radius:5px;">
-        <img class="Slides fade" src="/assets/img/BannerPhotos/ExcitationModuleCrop.png" style="width:100%;border-radius:5px;">
+        <img class="mySlides" src="/assets/img/BannerPhotos/240119_LabPhotoCrop.JPG" style="width:100%;border-radius:5px;">
+        <img class="mySlides" src="/assets/img/BannerPhotos/STORM B sub cell wall crop.png" style="width:100%;border-radius:5px;">
+        <img class="mySlides" src="/assets/img/BannerPhotos/ExcitationModuleCrop.png" style="width:100%;border-radius:5px;">
     </div>
 </div>
 
