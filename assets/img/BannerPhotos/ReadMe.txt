@@ -1,0 +1,1 @@
+Please crop all photos to be added to the front page slide show to a 2:1 aspect ratio
