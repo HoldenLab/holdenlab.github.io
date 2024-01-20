@@ -49,7 +49,7 @@ redirect:
         var elemTop = el.getBoundingClientRect().top;
         var elemBottom = el.getBoundingClientRect().bottom;
 
-        var isVisible = (elemTop >= 0) || (elemBottom <= window.innerHeight);
+        var isVisible = (elemTop >= 0);
         return isVisible;
     }
 
