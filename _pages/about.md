@@ -25,7 +25,6 @@ social: true  # includes social icons at the bottom of the page
 </style>
 </head>
 
-<body>
 
 <div class="row">
     <div class="Slideshow" style="margin-bottom:1cm;">
@@ -49,8 +48,6 @@ Key research themes:
 - Mechanistic principles of bacterial cell wall remodelling
 - Single molecule & super-resolution microscopy
 - Open source scientific software and hardware
-
-</body>
 
 <script>
     var myIndex = 0;
