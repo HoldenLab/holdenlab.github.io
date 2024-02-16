@@ -19,7 +19,7 @@ I am studying an Integrated Master’s (MBio) in Biomedical Science at the Unive
 I completed my 3rd year dissertation project in <a href="https://www.yinchenlab.org">Professor Yin Chen's</a> lab, exploring how pathogenic bacteria, specifically Burkholderia cenocepacia, can remodel their lipid and membrane compositions in response to phosphate limitation. 
 <br>
 <br>
-During my degree, I've also spent two summers working on clinical microbiology projects: studying microbe-microbe interactions in Cystic Fibrosis (<a href="http://www.whelanlab.co.uk/research/">Whelan Lab</a>), and characterising division of labour phenotypes in pathogenic fungi (<a href="https://sites.google.com/view/tsailab/research?authuser=0">Tsai Lab</a>). 
+I've also worked on various clinical microbiology projects: studying microbe-microbe interactions in Cystic Fibrosis (<a href="http://www.whelanlab.co.uk/research/">Whelan Lab</a>, University of Nottingham), and characterising division of labour phenotypes in pathogenic fungi (<a href="https://sites.google.com/view/tsailab/research?authuser=0">Tsai Lab</a>, University of Birmingham). 
 
 <br>
 <br>
