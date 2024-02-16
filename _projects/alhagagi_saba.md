@@ -16,10 +16,10 @@ redirect:
 I am studying an Integrated Master’s (MBio) in Biomedical Science at the University of Warwick. I joined the Holden lab in October 2023. 
 <br>
 <br>
-I completed my 3rd year dissertation project in Professor Yin Chen's lab, exploring how pathogenic bacteria, specifically Burkholderia cenocepacia, can remodel their lipid and membrane compositions in response to phosphate limitation. 
+I completed my 3rd year dissertation project in <a href="https://www.yinchenlab.org">Professor Yin Chen's</a> lab, exploring how pathogenic bacteria, specifically Burkholderia cenocepacia, can remodel their lipid and membrane compositions in response to phosphate limitation. 
 <br>
 <br>
-I have also worked in various clinical microbiology labs, studying microbe-microbe interactions in Cystic Fibrosis, and division of labour phenotypes in fungal populations. These projects have been funded by the Wellcome Trust and the British Mycological Society, respectively. 
+During my degree, I've also spent two summers working on clinical microbiology projects: studying microbe-microbe interactions in Cystic Fibrosis (<a href="http://www.whelanlab.co.uk/research/">Whelan Lab</a>), and characterising division of labour phenotypes in pathogenic fungi (<a href="https://sites.google.com/view/tsailab/research?authuser=0">Tsai Lab</a>). 
 
 <br>
 <br>
