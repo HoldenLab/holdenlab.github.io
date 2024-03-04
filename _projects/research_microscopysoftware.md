@@ -18,4 +18,4 @@ We host our code on GitHub, you can find it here: [https://github.com/HoldenLab]
 - [TwoTone](http://www.physics.ox.ac.uk/Users/kapanidis/Group/Main.Software.html), single molecule FRET data analysis software.
 
 ## People
-- [Simone Coppola](https://holdenlab.github.io/projects/coppola_simone/), computational biophysicist
+- [Simone Coppola](https://holdenlab.github.io/projects/coppola_simone/)
