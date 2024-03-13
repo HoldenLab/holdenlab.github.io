@@ -3,7 +3,7 @@ layout: page
 title: Angela Lo
 description: Senior Technician
 img: assets/img/people/angela_lo_profile.jpg
-importance: 100
+importance: 102
 category: current
 redirect: 
 ---

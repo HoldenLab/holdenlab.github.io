@@ -3,7 +3,7 @@ layout: page
 title: Saba Alhagagi
 description: MBio student
 img: assets/img/people/Saba_Alhagagi_profile.jpg
-importance: 201
+importance: 301
 category: current
 redirect: 
 ---

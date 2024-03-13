@@ -3,7 +3,7 @@ layout: page
 title: Joseph Ratcliff
 description: PhD student
 img: assets/img/people/joe_ratcliff_poster_profile.jpeg
-importance: 102
+importance: 202
 category: current
 ---
 
