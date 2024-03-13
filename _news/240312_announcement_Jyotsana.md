@@ -1,9 +1,8 @@
 ---
 layout: post
-date: 2024-03-13
+date: 2024-03-12
 inline: false
 related_posts: false
-title: New paper on bacterial cell division
+title: Jyotsana Parmar joins the lab!
 ---
-In work led by Kevin Whitley and published today in *Nature Microbiology*, we demonstrate that septal cell wall synthesis in Bacillus subtilis follows a one-track model, where both the motion and activity of the septal PG synthesis machinery is asynchronous with FtsZ dynamics. [Link to paper](https://pic.twitter.com/gpbofZTQrl)
-{% include figure.liquid loading="eager" path="assets/img/whitley2024_Fig5_HTML.webp" class="img-fluid rounded z-depth-1" %}
+Jyotsana Parmar has joined the lab for one year as a visiting scientist. She joins us from NCBS Bangalore where she holds a prestigious Inspire faculty fellowship. Welcome!
