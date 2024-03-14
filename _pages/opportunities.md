@@ -16,10 +16,6 @@ We are very happy to host post-doctoral fellowship applications in the lab and c
 
 If you would like more information about a specific position, or would just like to make general recruitment or studentship enquiries, please email [seamus.holden@warwick.ac.uk](seamus.holden@warwick.ac.uk) with CV.
 
-## Currently advertised posts
-
-- No positions currently advertised
-
 ## Upcoming
 
 - PhD positions: The primary path to a PhD in the lab is through two excellent doctoral training programmes: the [BBSRC MIBTP PhD training programme](https://warwick.ac.uk/fac/cross_fac/mibtp/) and the [Warwick MRC DTP](https://warwick.ac.uk/fac/sci/med/study/mrcdtp/). We are happy to host both rotation projects and main PhD projects. If you are interested, get in touch by [email](seamus.holden@warwick.ac.uk) Applications to both of these programmes for 2024 entry have closed but if you are interested in applying for next year's programmes please get in touch!
