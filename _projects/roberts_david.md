@@ -53,9 +53,9 @@ Using the model Gram-positive bacterium <i>Bacillus subtilis</i>, I use a combin
 <br>
 <b>Publications</b>:
 <ul>
-  <li> Benn G<sup>1</sup>; Bortolini C<sup>1</sup>; <b>Roberts DM</b>; Pyne ALB; Holden S; Hoogenboom BW (2023). Complement-mediated killing of bacteria by mechanical destabilization of the cell envelope. <i>bioRxiv</i>, <sup>1</sup>joint first authors. <a href="https://doi.org/10.1101/2023.12.10.570986">doi.org/10.1101/2023.12.10.570986</a>.
+  <li> Whitley KD; Grimshaw J; <b>Roberts DM</b>; Karinou E; Stansfeld PJ; Holden S (2024). Peptidoglycan synthesis drives a single population of septal cell wall synthases during division in Bacillus subtilis. <i>Nature Microbiology</i> (in press) <a href="https://www.nature.com/articles/s41564-024-01650-9">DOI:10.1038/s41564-024-01650-9</a>
 <br>
-  <li> Whitley KD; Grimshaw J; <b>Roberts DM</b>; Karinou E; Stansfeld PJ; Holden S (2023). A one-track model for spatiotemporal coordination of Bacillus subtilis septal cell wall synthesis. <i>bioRxiv</i>, <a href="https://doi.org/10.1101/2023.06.29.547024">https://doi.org/10.1101/2023.06.29.547024</a> 
+  <li> Benn G<sup>1</sup>; Bortolini C<sup>1</sup>; <b>Roberts DM</b>; Pyne ALB; Holden S; Hoogenboom BW (2023). Complement-mediated killing of bacteria by mechanical destabilization of the cell envelope. <i>bioRxiv</i>, <sup>1</sup>joint first authors. <a href="https://doi.org/10.1101/2023.12.10.570986">doi.org/10.1101/2023.12.10.570986</a>.
 <br>
   <li> Middlemiss S; <b>Roberts DM</b>; Grimshaw J; Edwards JM; Sun Z; Whitley KD; Blu T; Strahl H; Holden S (2023). Molecular motor tug-of-war regulates elongasome cell wall synthesis dynamics in Bacillus subtilis. <i>bioRxiv</i>, <a href="https://doi.org/10.1101/2023.05.10.540107">https://doi.org/10.1101/2023.05.10.540107</a>
 <br>

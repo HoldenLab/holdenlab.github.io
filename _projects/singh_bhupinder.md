@@ -3,7 +3,7 @@ layout: page
 title: Bhupinder Singh
 description: Senior Technician
 img: assets/img/people/Bhupinder_profile.jpg
-importance: 102
+importance: 101
 category: current
 redirect: 
 ---
