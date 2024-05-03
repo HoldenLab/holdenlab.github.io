@@ -14,7 +14,7 @@ redirect:
     </div>
 
     <div class="col">
-        {% include figure.html path="assets/img/people/Jyotsana_profile.png" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/people/Jyotsana_profile.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
   </div>
 </div>
