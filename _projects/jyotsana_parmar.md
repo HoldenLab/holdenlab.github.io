@@ -2,7 +2,7 @@
 layout: page
 title: Jyotsana Parmar
 description: Visiting Research Fellow
-img: assets/img/people/Jyotsana_profile.png
+img: assets/img/people/Jyotsana_profile.jpg
 importance: 5
 category: current
 redirect: 
