@@ -12,7 +12,7 @@ Clearly communicating our work via figures and cartoons is an essential part of 
 Pragmatically, clear visual communication also helps enormously when submitting manuscripts to selective journals or writing grant applications.
 
 ## Scientific graphic design books
-- [The Visual Display of Quantitative Information](https://www.edwardtufte.com/tufte/books_vdqi) by Edward Tufte is the classic book on how to communicate scientific data visually. This book taught me most of what I know about figure design. At its core is an appeal for visual minimalism - as much explanatory info ("chart ink") as possible - but no more! The core maxim is "Maximise the data ink to chart ink ratio". 
+- [The Visual Display of Quantitative Information](https://www.edwardtufte.com/tufte/books_vdqi) by Edward Tufte is the classic book on how to communicate scientific data visually. This book taught me most of what I know about figure design. At its core is an appeal for visual minimalism - use only as much explanatory info ("chart ink") as necessary - no more! The core maxim is "Maximise the data ink to chart ink ratio". 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/tufte_vdqi_bookcover.gif" class="img-fluid rounded z-depth-1" %}
@@ -37,7 +37,7 @@ Pragmatically, clear visual communication also helps enormously when submitting 
 There are several really excellent sources of scientific images made freely available, which can be incorporated into your cartoons and diagrams. See note below about licenses and attribution.
 - [BioIcons](https://bioicons.com/) - Lots of high quality biology focussed clip art cartoons or diagrams in vector format (SVG), eg cells, organs. Mostly released under CC-BY or CC0.
 - [SciDraw](https://www.scidraw.io/) - Lots more excellent biology focussed vector format clip art (SVG), similar to BioIcons. CC-BY license.
-- [Smart Servier Medial Art](https://smart.servier.com/) is a library of 3000 free medical images - very high quality and very detailed - released by the [Servier Laboratories](https://servier.com/). The illustrations are mostly cartoons (vector format) but the default download format is either PNG (raster) or PowerPoint. Happily, the PowerPoint files contain the vector format images. To export these in vector format, download the PowerPoint and export the page containing the relevant illustration as a PDF. This PDF can then be opened and edited in Inkscape or other Vector editor. Also note after import in Inkscape you may need to remove an additional imported page behind the image using the *Pages Tool*.
+- [Smart Servier Medial Art](https://smart.servier.com/) is a library of 3000 free medical images - very high quality and very detailed - released by the [Servier Laboratories](https://servier.com/). The illustrations are mostly cartoons (vector format) but the default download format is either PNG (raster) or PowerPoint. Happily, the PowerPoint files contain the vector format images. To export these in vector format, download the PowerPoint and export the page containing the relevant illustration as a PDF. This PDF can then be opened and edited in Inkscape or other Vector editor. Also note after import in Inkscape you may need to remove an additional imported page behind the image using the *Pages Tool*. CC-BY license.
 - University of Maryland [Center for Environmental Science Media Library](https://ian.umces.edu/media-library/). A collection of vector cartoons and raster photos, focussed on environment and ecology. CC-BY-SA license.
 - [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page). A huge collection of  vector cartoons and raster photos on broad topics. Licenses depend on the image and should be checked, but are usually CC-BY, CC-BY-SA, CC-0 or public domain.
 
@@ -70,7 +70,7 @@ It can be helpful to keep track of the sources of any clipart that you use by ad
 - A really good tip that I use often is - if you like the visual style of a cartoon or even the layouts of figures in a paper, do not be afraid to imitate them! 
 - Some of my favourite figures use little cartoons throughout to explain or interpret the data in situ, eg with little cartoons of phenotypes inline with images. The easier you can make your figure to interpret the better.
 
-## Helpful Inkscape resourceshttps://inkscape.org/learn/
+## Helpful Inkscape resources
 - [https://inkscape.org/learn/](https://inkscape.org/learn/)
 - [https://inkscape-manuals.readthedocs.io/en/latest/#](https://inkscape-manuals.readthedocs.io/en/latest/#)
 - [Inkscape for scientists](https://www.youtube.com/playlist?list=PLxtauMB7RON_2tg-mRQTuieFUr29IOKzW) - A very good playlist of Youtube videos that takes you through Inkscape basics for making figures and cartoons.
