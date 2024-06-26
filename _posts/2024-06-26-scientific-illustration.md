@@ -12,7 +12,7 @@ Clearly communicating our work via figures and cartoons is an essential part of 
 Pragmatically, clear visual communication also helps enormously when submitting manuscripts to selective journals or writing grant applications.
 
 ## Scientific graphic design books
-- [The Visual Display of Quantitative Information](https://www.edwardtufte.com/tufte/books_vdqi) by Edward Tufte is the classic book on how to communicated scientific data visually. While I don't agree with everything in this book, it taught me most of what I know about figure design. At its core is an appeal for visual minimalism - as much explanatory info ("chart ink") as possible - but no more! The core maxim is "Maximise the data ink to chart ink ratio". 
+- [The Visual Display of Quantitative Information](https://www.edwardtufte.com/tufte/books_vdqi) by Edward Tufte is the classic book on how to communicate scientific data visually. This book taught me most of what I know about figure design. At its core is an appeal for visual minimalism - as much explanatory info ("chart ink") as possible - but no more! The core maxim is "Maximise the data ink to chart ink ratio". 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/tufte_vdqi_bookcover.gif" class="img-fluid rounded z-depth-1" %}
