@@ -75,5 +75,6 @@ It can be helpful to keep track of the sources of any clipart that you use by ad
 - [https://inkscape-manuals.readthedocs.io/en/latest/#](https://inkscape-manuals.readthedocs.io/en/latest/#)
 - [Inkscape for scientists](https://www.youtube.com/playlist?list=PLxtauMB7RON_2tg-mRQTuieFUr29IOKzW) - A very good playlist of Youtube videos that takes you through Inkscape basics for making figures and cartoons.
 - [Decent tutorial on the toolbars in Inkscape v1.3 (latest version)](https://www.youtube.com/watch?v=jlhFFsV7JLk)
+- [Draw a coffee cup in Inkscape](https://www.youtube.com/watch?v=geo4UnxFAmw) - good practical Inkscape tutorial, it uses a little bit of an old Inkscape version but hits the core techniques
 
 Author: Séamus Holden
