@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Saba Alhagagi
-description: MBio student
+description: MBio student (2023-24)/ PhD student (2024-)
 img: assets/img/people/Saba_Alhagagi_profile.jpg
 importance: 301
 category: current

@@ -1,10 +1,10 @@
 ---
 layout: page
 title: Siham Gabow
-description: MBio student (joint with Chris Rodriguez lab)
+description: MBio student 2023-2024
 img: assets/img/people/Siham_Gabow_profile.jpg
 importance: 302
-category: current
+category: alumni
 redirect: 
 ---
 <div class="container">
