@@ -10,13 +10,13 @@ redirect:
 <div class="container">
   <div class="row">
     <div class="col">
-<b style="font-size: 20px;">About Me</b>
+<b style="font-size: 22px;">About Me</b>
 <br>
 
 I'm a PhD student investigating the molecular dynamics of bacterial cell division machinery. I joined the Holden lab in October 2023. 
 <br>
 <br>
-<b style="font-size: 20px;">Academic Background</b>
+<b style="font-size: 22px;">Academic Background</b>
 <br>
 <b>2020-2024</b>: MBio (Hons) First Class in Biomedical Science, University of Warwick
 <br>
