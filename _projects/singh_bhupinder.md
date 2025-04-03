@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Bhupinder Singh
-description: Senior Technician
+description: Senior Research Technician
 img: assets/img/people/Bhupinder_profile.jpg
 importance: 101
 category: current
