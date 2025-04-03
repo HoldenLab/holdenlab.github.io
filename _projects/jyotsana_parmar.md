@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Jyotsana Parmar
-description: Visiting Research Fellow
+description: Postdoctoral Fellow
 img: assets/img/people/Jyotsana_profile.jpg
 importance: 5
 category: current

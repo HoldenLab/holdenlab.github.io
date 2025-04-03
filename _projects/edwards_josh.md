@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Josh Edwards
-description: PhD student
+description: Postdoctoral fellow
 img: assets/img/people/josh_edwards_profile.jpg
 importance: 201
 category: current
