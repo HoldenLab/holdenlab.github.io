@@ -13,6 +13,8 @@ We focus in particular on two related questions: how does the divisome, the prot
 
 We primarily use *Bacillus subtilis* as a model organism for this project, with a little bit of work in *Escherichia coli*.
 
+This work is primarily funded by a Wellcome Trust Discovery Award.
+
 ## People
 - [David Roberts](https://holdenlab.github.io/projects/roberts_david/), PDRA, bacterial geneticist and microscopist.
 - [Bhupinder Singh](https://holdenlab.github.io/projects/singh_bhupinder/), Senior Research Technician, bacterial geneticist.
