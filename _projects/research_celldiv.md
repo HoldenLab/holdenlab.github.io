@@ -16,7 +16,8 @@ We primarily use *Bacillus subtilis* as a model organism for this project, with 
 ## People
 - [David Roberts](https://holdenlab.github.io/projects/roberts_david/), PDRA, bacterial geneticist and microscopist.
 - [Bhupinder Singh](https://holdenlab.github.io/projects/singh_bhupinder/), Senior Research Technician, bacterial geneticist.
-- *We are in the procees of recruiting a post-doc in biophysics and super-resolution microscopy on this project.*
+- [Josh Edwards](https://holdenlab.github.io/projects/edwards_josh/), PDRA, biophysicist.
+- [Simone Coppola](https://holdenlab.github.io/projects/coppola_simone/), PDRA, biophysicist.
 
 
 ## Collaborators
