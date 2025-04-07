@@ -2,7 +2,6 @@
 layout: page
 title: Saba Alhagagi
 description: PhD student
-img: assets/img/people/Saba_Alhagagi_profile.jpg
 importance: 301
 category: current
 redirect: 
