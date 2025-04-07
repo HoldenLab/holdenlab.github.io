@@ -13,7 +13,7 @@ redirect:
 <b style="font-size: 22px;">About Me</b>
 <br>
 
-I'm a PhD student investigating the molecular dynamics of bacterial cell division machinery. I joined the Holden lab in October 2023. 
+I'm a PhD student investigating the molecular dynamics of bacterial cell division machinery.  
 <br>
 <br>
 <b style="font-size: 22px;">Academic Background</b>
@@ -21,11 +21,6 @@ I'm a PhD student investigating the molecular dynamics of bacterial cell divisio
 <b>2020-2024</b>: MBio (Hons) First Class in Biomedical Science, University of Warwick
 <br>
 
-    </div>
-
-    <div class="col">
-        {% include figure.html path="assets/img/people/Saba_Alhagagi_profile.jpg" class="img-fluid rounded z-depth-1" %}
-    </div>
   </div>
   <div class="row">
     
