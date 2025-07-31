@@ -53,7 +53,7 @@ Using the model Gram-positive bacterium <i>Bacillus subtilis</i>, I use a combin
 <br>
 <b>Publications</b>:
 <ul>
-  <li> Benn G<sup>1</sup>; Bortolini C<sup>1</sup>; <b>Roberts DM</b>; Pyne ALB; Holden S; Hoogenboom BW (2024). Complement-mediated killing of <i>Escherichia coli</i> by mechanical destabilization of the cell envelope. <i>EMBO J</i>, <b>43</b>, 6152-6160. <sup>1</sup>joint first authors. <a href="https://doi.org/10.1038/s44318-024-00266-3">doi:10.1038/s44318-024-00266-3</a>
+  <li> Benn G<sup>1</sup>; Bortolini C<sup>1</sup>; <b>Roberts DM</b>; Pyne ALB; Holden S; Hoogenboom BW (2024). Complement-mediated killing of <i>Escherichia coli</i> by mechanical destabilization of the cell envelope. <i>The EMBO Journal</i>, <b>43</b>, 6152-6160. <sup>1</sup>joint first authors. <a href="https://doi.org/10.1038/s44318-024-00266-3">doi:10.1038/s44318-024-00266-3</a>
 <br>
   <li> Middlemiss S; Blandenet M; <b>Roberts DM</b>; McMahon A; Grimshaw J; Edwards JM; Sun Z; Whitley KD; Blu T; Strahl H; Holden S (2024). Molecular motor tug-of-war regulates elongasome cell wall synthesis dynamics in Bacillus subtilis. <i>Nature Communications</i>, <b>15</b>, 5411. <a href="https://www.nature.com/articles/s41467-024-49785-x">DOI:10.1038/s41467-024-49785-x</a>
 <br>
