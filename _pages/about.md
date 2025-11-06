@@ -20,7 +20,7 @@ social: true  # includes social icons at the bottom of the page
 </div>
 
 
-Welcome to the Holden Lab website! 
+# Welcome to the Holden Lab website! 
 
 We are interdisciplinary scientists who study bacterial cell biology and biophysics using super-resolution microscopy and other advanced imaging methods. Our primary biological focus is how bacteria remodel their cell wall, which is one of the most important targets​ for antibiotics. 
 
@@ -28,7 +28,7 @@ We are based in the <a href="https://warwick.ac.uk/services/estates/news/ibrb_op
 <a href="https://warwick.ac.uk/fac/sci/lifesci/">School of Life Sciences</a>, University of Warwick, near Coventry, UK. 
 
 
-Key research themes:
+# Key research themes:
 
 - Mechanistic principles of bacterial cell wall remodelling
 - Single molecule & super-resolution microscopy
