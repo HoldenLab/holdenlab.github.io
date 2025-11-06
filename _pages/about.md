@@ -34,6 +34,9 @@ Key research themes:
 - Single molecule & super-resolution microscopy
 - Open source scientific software and hardware
 
+
+Information about how to obtain and use VerCINI chips which we developed for microscopy of vertically immobilised bacteria can be found [here](https://holdenlab.github.io/projects/research_vercini/).
+
 <script>
     var myIndex = 0;
     carousel();
