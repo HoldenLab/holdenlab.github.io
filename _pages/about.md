@@ -28,7 +28,7 @@ We are based in the <a href="https://warwick.ac.uk/services/estates/news/ibrb_op
 <a href="https://warwick.ac.uk/fac/sci/lifesci/">School of Life Sciences</a>, University of Warwick, near Coventry, UK. 
 
 
-# Key research themes:
+# Key research themes
 
 - Mechanistic principles of bacterial cell wall remodelling
 - Single molecule & super-resolution microscopy
