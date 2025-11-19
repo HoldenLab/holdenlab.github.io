@@ -38,6 +38,7 @@ We are based in the <a href="https://warwick.ac.uk/services/estates/news/ibrb_op
 
 - Information about how to obtain and use VerCINI chips which we developed for microscopy of vertically immobilised bacteria can be found [here](/projects/research_vercini).
 - Software made by our lab can be found on the [HoldenLab GitHub](https://github.com/HoldenLab)
+- Information about alternatives to ThermoFisher GeneFrames for bacterial timelapse microscopy can be found [here](/posts/2025-11-17-GeneFrames-bacterial-timelapse)
 
 <script>
     var myIndex = 0;
