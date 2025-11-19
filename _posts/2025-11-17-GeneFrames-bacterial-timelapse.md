@@ -13,7 +13,7 @@ Unfortunately, Thermo discontinued these items. BioRad FrameSeals, which as far 
 I have been looking for an alternative to this product and record the results of mine and other's investigations here. I will keep this updated with any further developments.
 
 - Grace Biolabs have recently released [SecureSeal Frames](https://gracebio.com/product/secureseal-frame-620103/), a GeneFrame compatible replacement product. My lab have tested the prototype version of these and they work fine for *Bacillus subtilis* time lapse microsopy. However, at $115 for 25, they are quite pricy at 4x the cost of the old GeneFrames.
-- [iSpacers from SUNJinLab](https://www.sunjinlab.com/ispacer-selection-guide/) appear to be a compatible solution. Not tested yet. The company said they can make custom sizes. Prices look more reasonable: $20 for 50, $80 for 250. *Thanks Ivan Volkov and George Churchman for finding these*
+- [iSpacers from SUNJinLab](https://www.sunjinlab.com/ispacer-selection-guide/) appear to be a promising solution. Not tested yet. The company said they can make custom sizes. Prices look good: [$20 for 50, $80 for 250](https://www.sunjinlab.com/product/ispacer-0-25mm/). *Thanks Ivan Volkov and George Churchman for finding these*
 - There is probably a good DIY solution. The key step would be to identify a suitably non-toxic double sided adhesive sheet material. Hobbyist die cutters or makerspace laser cutters could be used to cut the sheet.
 
 
