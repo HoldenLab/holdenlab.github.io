@@ -36,7 +36,7 @@ We are based in the <a href="https://warwick.ac.uk/services/estates/news/ibrb_op
 
 # Open science resources
 
-- Information about how to obtain and use VerCINI chips which we developed for microscopy of vertically immobilised bacteria can be found [here](https://holdenlab.github.io/projects/research_vercini/).
+- Information about how to obtain and use VerCINI chips which we developed for microscopy of vertically immobilised bacteria can be found [here](/projects/research_vercini).
 - Software made by our lab can be found on the [HoldenLab GitHub](https://github.com/HoldenLab)
 
 <script>
