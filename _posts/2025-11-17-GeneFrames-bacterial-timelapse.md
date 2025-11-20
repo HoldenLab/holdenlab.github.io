@@ -8,7 +8,7 @@ categories: resources
 ---
 Thermo Fisher GeneFrames are adhesive spacers widely used in bacterial cell biology to make small sealed agarose pads on microscope slides for time lapse microscopy.  The GeneFrames protocol was developed by Jan-Willem Veening and is [available on JoVE](https://www.jove.com/v/3145/live-cell-imaging-bacillus-subtilis-streptococcus-pneumoniae-using). They work well for obligate aerobic bacteria such as *Bacillus subtilis* because it is straightforward to cut large air spaces either side of a narrow agarose pad within these frames.
 
-Unfortunately, Thermo discontinued these items. BioRad FrameSeals, which as far as I can tell are the identical product under a different brand name, are also either discontinued or soon to be discontinued.
+Unfortunately, Thermo discontinued these items in 2025. BioRad FrameSeals, which as far as I can tell are the identical product under a different brand name, are also either discontinued or soon to be discontinued.
 
 I have been looking for an alternative to this product and record the results of mine and other's investigations here. I will keep this updated with any further developments.
 
