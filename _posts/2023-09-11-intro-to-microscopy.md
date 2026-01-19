@@ -17,6 +17,10 @@ For quick overviews:
 - Introduction to image analysis: [Image_analysis_lecture__Vincent_Boudreau](/assets/pdf/image_analysis_lecture__vincent_boudreau.pdf)
 - [Introduction to advanced microscopy for microbiology - Seamus Holden](/assets/pdf/Mol_Micro_Lecture_5_Holden_Advanced_microscopy_for_microbiology.pdf) (with a few slides borrowed from Nicolas Olivier's lecture above).
 - Introduction to microscopy (with a focus on neuroscience): [https://www.scribd.com/document/360138012/Master-Course-2017-Photonic-Imaging-in-Neurobiology-C-Leterrier](https://www.scribd.com/document/360138012/Master-Course-2017-Photonic-Imaging-in-Neurobiology-C-Leterrier)
+- Introduction to reproducible and ethical acquisition and analysis of microscopy data are outlined in these two papers:
+		- [Avoiding Twisted Pixels: Ethical Guidelines for the Appropriate Use and Manipulation of Scientific Digital Images](https://link.springer.com/article/10.1007/s11948-010-9201-y)
+		- [A guide to accurate reporting in digital image acquisition - can anyone replicate your microscopy data?](https://pubmed.ncbi.nlm.nih.gov/33785608/)
+
 
 More detailed microscopy lecture series:
 - [Jeff Lichtmann light microscopy lectures](https://www.dropbox.com/sh/op30r8upwk5d0y5/AAAy_KyHesTVy2Tres6lyNa5a?dl=0) (excellent intro to microscopy with a focus on optics):
