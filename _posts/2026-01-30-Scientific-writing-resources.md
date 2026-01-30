@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Resources on scientific writing
-date: 2023-09-11 16:40:16
+date: 2026-01-30
 description: A collection of useful training resources for scientific writing
 tags: microscopy
 categories: resources
