@@ -16,7 +16,7 @@ How to make good figures and figure legends:
 - [Creating clear and informative image-based figures for scientific publications](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3001161)
 - [The devil in the details (a short guide to writing figure legends)](https://totalinternalreflectionblog.com/2021/08/11/the-devil-in-the-details-a-short-guide-to-writing-figure-legends/)
 
-I have previously written a [detailed post on scientific illustration](/blog/2025/scientific-illustration/)
+I have previously written a [detailed post on scientific illustration](/blog/2024/scientific-illustration/)
 
 Excellent book on general technical writing:
 - [Zinsser, On Writing Well: The Classic Guide to Writing Non-Fiction](https://www.amazon.co.uk/Writing-Well-Classic-Guide-Non-Fiction/dp/0060006641)
