@@ -3,7 +3,7 @@ layout: page
 title: Emily Clegg
 description: MBio Student
 img: assets/img/people/Emily_Clegg.png
-importance: 3
+importance: 13
 category: current
 redirect: 
 ---
