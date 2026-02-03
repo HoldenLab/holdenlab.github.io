@@ -22,7 +22,7 @@ This fully funded four-year studentship is available for September 2026 to join 
 
 We are constantly working to create a supportive and inclusive environment to help students achieve their best potential, through promoting equality and challenging discrimination. We want our students to feel heard and valued for their hard work. We welcome and encourage applications from minoritized groups that are under-represented in academia.
 
-For more details contact:  [seamus.Holden@warwick.ac.uk](seamus.Holden@warwick.ac.uk) 
+For more details contact:  [seamus.Holden@warwick.ac.uk](mailto:seamus.Holden@warwick.ac.uk) 
 
 ### Supervisors
 - Professor Séamus Holden (University of Warwick)
