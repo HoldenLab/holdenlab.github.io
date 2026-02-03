@@ -10,7 +10,9 @@ We have an exciting iCASE PhD position available at the interface of advanced mi
 
 ## Image-based bacterial phenotyping and antimicrobial drug discovery using smart high-throughput super-resolution microscopy
 **University of Warwick**
+
 **Application deadline: 2nd Mar 2026**
+
 **[Application link](https://warwick.ac.uk/fac/sci/med/study/mrcdtp/apply/applicationform2026icase/)**
 
 ### About the Project
@@ -22,7 +24,7 @@ This fully funded four-year studentship is available for September 2026 to join 
 
 We are constantly working to create a supportive and inclusive environment to help students achieve their best potential, through promoting equality and challenging discrimination. We want our students to feel heard and valued for their hard work. We welcome and encourage applications from minoritized groups that are under-represented in academia.
 
-For more details contact:  [seamus.Holden@warwick.ac.uk](mailto:seamus.Holden@warwick.ac.uk) 
+For more details contact:  [seamus.holden@warwick.ac.uk](mailto:seamus.holden@warwick.ac.uk) 
 
 ### Supervisors
 - Professor Séamus Holden (University of Warwick)
@@ -40,9 +42,11 @@ Students receive outstanding mentoring, careers and pastoral support throughout 
 Applications are open to home and international students.
 
 **Entry requirements**
+
 Candidates must have an excellent undergraduate degree (2:1 or above) in the biological, physical or computational sciences and advanced skills in mathematics, statistics, physics or computer science (A-Level or international equivalent). Please see the website for further information. 
 
 **Funding**
+
 Studentships cover full fees, consumables, conference attendance and an annual stipend (£24,333 in 2026/27). Students can also apply for additional funding from the DTP for advanced training workshops, international or industry placements, internships and career transition support.
 
 ### How to apply 
