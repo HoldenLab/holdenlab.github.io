@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2026-02-03
-title: PhD project available
+title: PhD project available: Image-based bacterial phenotyping and antimicrobial drug discovery using smart high-throughput super-resolution microscopy
 inline: false
 related_posts: false
 ---

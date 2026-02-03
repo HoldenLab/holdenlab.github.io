@@ -18,6 +18,7 @@ If you would like more information about a specific position, or would just like
 
 ## Upcoming
 
+- *Currently advertised MRC DTP iCASE PhD position*: [Image-based bacterial phenotyping and antimicrobial drug discovery using smart high-throughput super-resolution microscopy](/news/260203_PhD_project_available/)
 - *PhD positions*: The primary path to a PhD in the lab is through two excellent doctoral training programmes: the [BBSRC MIBTP PhD training programme](https://warwick.ac.uk/fac/cross_fac/mibtp/) and the [Warwick MRC DTP](https://warwick.ac.uk/fac/sci/med/study/mrcdtp/). We are happy to host both rotation projects and main PhD projects. If you are interested, get in touch by [email](seamus.holden@warwick.ac.uk) Applications to both of these programmes for 2025 entry will open soon!
 
 ## Undergraduate and Masters research projects
