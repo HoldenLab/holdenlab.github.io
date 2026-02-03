@@ -12,8 +12,8 @@ The bacterial cell wall is a large mesh-like material composed of peptidoglycan:
 We are using *in vitro* single molecule fluorescence methods to investigate this question.
 
 ## People
-- [Angela Lo](https://holdenlab.github.io/projects/lo_angela/), Senior Reseach Technician, Biochemist (joint with Roper lab).
-- A new postdoc will be joining us on this project soon!
+- [Jack Stone](/projects/stone_jack), Senior Reseach Technician, Biochemist (joint with Roper lab).
+- [Kateryna Nitsenko](/projects/nitsenko_kateryna), PDRA, Biophysicist.
 
 
 ## Collaborators
