@@ -10,10 +10,11 @@ Thermo Fisher GeneFrames are adhesive spacers widely used in bacterial cell biol
 
 Unfortunately, Thermo discontinued these items in 2025. BioRad FrameSeals, which as far as I can tell are the identical product under a different brand name, are also either discontinued or soon to be discontinued.
 
-I have been looking for an alternative to this product and record the results of mine and other's investigations here. I will keep this updated with any further developments.
+I have been looking for an alternative to this product and record the results of mine and other's investigations here. *Based on pricing and initial tests, the iSpacers mentioned below are the best replacement for GeneFrames.*
 
+- [iSpacers from SUNJinLab](https://www.sunjinlab.com/ispacer-selection-guide/) appear to be a promising solution. The company said they can make custom sizes. Prices look good: [$20 for 50, $80 for 250](https://www.sunjinlab.com/product/ispacer-0-25mm/). Thanks Ivan Volkov and George Churchman for finding these. *We have now tested these and the 0.3mm thick iSpacers work well for timelapse microscopy of *Bacillus subtilis.* We will use these going forward. If we have any further updates as to their performance I will post them here. We are planning  to purchase a custom size that matches GeneFrame laterl dimensions, as the standard iSpacers are too big to fit 22mm coverslips.
 - Grace Biolabs have recently released [SecureSeal Frames](https://gracebio.com/product/secureseal-frame-620103/), a GeneFrame compatible replacement product. My lab have tested the prototype version of these and they work fine for *Bacillus subtilis* time lapse microsopy. However, at $115 for 25, they are quite pricy at 4x the cost of the old GeneFrames.
-- [iSpacers from SUNJinLab](https://www.sunjinlab.com/ispacer-selection-guide/) appear to be a promising solution. The company said they can make custom sizes. Prices look good: [$20 for 50, $80 for 250](https://www.sunjinlab.com/product/ispacer-0-25mm/). Thanks Ivan Volkov and George Churchman for finding these. *We have ordered some. We will test them and post results once we get them.*
+
 - There is probably a good DIY solution. The key step would be to identify a suitably non-toxic double sided adhesive sheet material. Hobbyist die cutters or makerspace laser cutters could be used to cut the sheet.
 
 
