@@ -8,7 +8,9 @@ categories: resources
 ---
 This is a list of good microscopy 101 resources for new Holden lab arrivals, which may be useful to others too. Thanks to the sci-twitter community for pointing to or donating many of these resources.
 
-Outstanding, comprehensive online courses on Microscopy *(Holden lab newbies, look at this first)* :
+[Basic first overview of principles of fluorescence microscopy](https://www.microscopyu.com/techniques/fluorescence/introduction-to-fluorescence-microscopy) from Nikon.  They have lots of other good microscopy training resources on the same site. *Holden lab newbies, look at this first*.
+
+Outstanding, comprehensive online courses on Microscopy  :
 - [iBiology microscopy series](https://www.ibiology.org/online-biology-courses/microscopy-series/)
 
 For quick overviews:
