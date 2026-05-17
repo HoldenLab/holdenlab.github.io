@@ -12,7 +12,7 @@ Our interdisciplinary team includes scientists from multiple fields, including q
 
 We are always open to informal enquiries for vacation studentships, PhD or Post-doctoral positions in this lab, and often find a way to fund good candidates. International PhD candidates who can secure their own funding are welcomed.
 
-We are very happy to host post-doctoral fellowship applications in the lab and can offer advice and feedback on such applications to suitable candidates. If you are considering an application such as Wellcome Early Career Award, BBSRC Discovery Fellowship EMBO LTF, Marie Curie IEF or another scheme, do get in touch.
+We are very happy to host post-doctoral fellowship applications in the lab and can offer advice and feedback on such applications to suitable candidates. If you are considering an application such as Wellcome Early Career Award, BBSRC Discovery Fellowship, EMBO LTF, Marie Curie IEF or another scheme, do get in touch.
 
 If you would like more information about a specific position, or would just like to make general recruitment or studentship enquiries, please email [seamus.holden@warwick.ac.uk](seamus.holden@warwick.ac.uk) with CV.
 
@@ -22,7 +22,7 @@ If you would like more information about a specific position, or would just like
 
 ## Undergraduate and Masters research projects
 
-Each year we host third and foruth year undergraduate research projects for Biochemistry and Biomedical Sciences students studying in our department (School of Life Sciences). If you are a third year student interested in pursuing a project in our lab, you can find out more under the "Teaching and Supervision" tab of [Séamus Holden's departmental web page](https://warwick.ac.uk/fac/sci/lifesci/people/sholden/). If you are interested in doing a fourth year MBio project in the lab please have a look at our [Research](/research/) page to get a general overview of what we are up to and then please get in touch.
+Each year we host third and fourth year undergraduate research projects for Biochemistry and Biomedical Sciences students studying in our department (School of Life Sciences). If you are a third year student interested in pursuing a project in our lab, you can find out more under the "Teaching and Supervision" tab of [Séamus Holden's departmental web page](https://warwick.ac.uk/fac/sci/lifesci/people/sholden/). If you are interested in doing a fourth year MBio project in the lab please have a look at our [Research](/research/) page to get a general overview of what we are up to and then please get in touch.
 
 We also host summer research projects for  talented and self-motivated undergraduate students from any relevant training background. Warwick students can access funding via the [URSS scheme](https://warwick.ac.uk/services/skills/urss/). A range of bursary schemes for summer projects are available from learned societies such as the Microbiology Society or the Biochemical Society.
 
