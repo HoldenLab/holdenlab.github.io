@@ -8,9 +8,9 @@ redirect:
 ---
 <style>
 .profile-page {
-font-family: -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
-color: #2b2b2b;
-line-height: 1.65;
+max-width: 700px;
+margin: 0 auto;
+padding: 0 1rem;
 }
 .profile-section {
 margin-bottom: 2.5rem;
@@ -23,38 +23,6 @@ border-bottom: 3px solid #c61da2;
 padding-bottom: 6px;
 margin-bottom: 1rem;
 display: inline-block;
-}
-.cv-entry {
-margin-bottom: 0.6rem;
-}
-.cv-entry .years {
-font-weight: 600;
-color: #c61da2;
-}
-.project-card {
-background: #ffffff;
-border: 1px solid #eee;
-border-radius: 10px;
-padding: 1.5rem 1.75rem;
-margin-bottom: 1.5rem;
-box-shadow: 0 2px 8px rgba(0,0,0,0.04);
-transition: box-shadow 0.2s ease, transform 0.2s ease;
-}
-.project-card:hover {
-box-shadow: 0 6px 16px rgba(0,0,0,0.08);
-transform: translateY(-2px);
-}
-.project-title {
-color: #c61da2;
-font-size: 1.1rem;
-font-weight: 600;
-margin-bottom: 0.75rem;
-display: block;
-}
-.project-body {
-font-size: 0.98rem;
-color: #3d3d3d;
-text-align: justify;
 }
 .profile-section a {
 color: #c61da2;
@@ -115,13 +83,11 @@ text-transform: none;
 margin-right: 0.3rem;
 }
 </style>
-<div class="container profile-page" style="max-width: 900px;">
-<div class="row">
-<div class="col-md-6">
+<div class="profile-page">
 <div class="profile-section">
 <span class="section-title">About Me</span>
-<p>I joined the Holden Lab in October 2023 to carry out my final-year research project as part of an Integrated Master's (MBio) in Biomedical Science at the University of Warwick, where I specialised in Microbiology and developed a broad interest in the mechanistic principles that drive microbial life at the nanoscale. My Master's project focused on developing a cryofixation strategy for advanced light microscopy studies of bacterial molecular machines.</p>
-<p>I am now a BBSRC-MIBTP funded PhD student, jointly based in the Holden Lab and <a href="https://stansfeldresearchgroup.wordpress.com" target="_blank" rel="noopener">Stansfeld Research Group</a>. My work combines structural and computational biochemistry with single-molecule biophysics to investigate the molecular dynamics of bacterial cell division machinery in the Gram-negative pathogen <em>Pseudomonas aeruginosa</em>.</p>
+<p>Time spent in various clinical microbiology labs throughout my undergraduate degree drew me to specialise in Microbiology, and I developed a broad interest in the mechanistic principles that drive microbial life at the nanoscale. I joined the Holden Lab in October 2023 to carry out my final-year research project as part of an Integrated Master's (MBio) in Biomedical Science at the University of Warwick. My Master's project focused on developing a cryofixation strategy for advanced light microscopy studies of bacterial molecular machines.</p>
+<p>As a BBSRC-MIBTP funded PhD student jointly based in the Holden and <a href="https://stansfeldresearchgroup.wordpress.com/" target="_blank" rel="noopener">Stansfeld</a> Research Groups, I combine computational biochemistry and single-molecule biophysics to study how the Gram-negative pathogen <em>Pseudomonas aeruginosa</em> builds its cell wall during division. Understanding this process could inform the development of novel cell wall synthesis inhibitors to combat antimicrobial resistance.</p>
 </div>
 <div class="profile-section">
 <span class="section-title">Career Timeline</span>
@@ -134,28 +100,13 @@ margin-right: 0.3rem;
 </div>
 </div>
 <div class="timeline-item">
-<span class="timeline-year">2023</span>
-<span class="timeline-title">British Mycological Society Summer Studentship, <a href="https://sites.google.com/view/tsailab/" target="_blank" rel="noopener">Tsai Lab</a>, University of Birmingham</span>
-</div>
-<div class="timeline-item">
-<span class="timeline-year">2022</span>
-<span class="timeline-title">Wellcome Biomedical Vacation Studentship, <a href="https://www.whelanlab.co.uk" target="_blank" rel="noopener">Whelan Lab</a>, University of Nottingham</span>
-</div>
-<div class="timeline-item">
 <span class="timeline-year">2020&ndash;2024</span>
-<span class="timeline-title">MBio (Hons) First Class in Biomedical Science, University of Warwick</span>
-</div>
-</div>
-</div>
-</div>
-<div class="col-md-6">
-<div class="profile-section">
-<span class="section-title">Previous Projects</span>
-<div class="project-card">
-<span class="project-title">Developing new fixation methods for advanced light microscopy studies of bacterial machines</span>
-<p class="project-body">
-Our lab studies how bacteria grow and divide, but understanding how the protein complexes involved in these processes are organised can be challenging due to their dynamic and mobile nature. Chemical fixation, in principle, preserves cells to be comparable to their original living state and allows us to take a &ldquo;snapshot&rdquo; of what these proteins look like. Using aldehyde-based fixatives such as paraformaldehyde and glutaraldehyde to covalently bind amino acid residues together, a matrix of cross-linked proteins and DNA is formed to stabilise cellular structures. However, we know that aldehydes are documented disruptors of native ultrastructure in prokaryotic and eukaryotic systems, introducing artifacts that lead to interpretations typically not observed during live-cell imaging. This project focussed on the development of a new fixation method, using SIM and HiLo microscopy for validation.
-</p>
+<span class="timeline-title">MBio (First Class Hons) in Biomedical Science, University of Warwick</span>
+<div class="timeline-sub">
+<div><span class="timeline-year">2024</span>MBio Project, Holden Lab</div>
+<div style="margin-top: 0.4rem;"><span class="timeline-year">2023</span>British Mycological Society Summer Studentship, <a href="https://sites.google.com/view/tsailab/" target="_blank" rel="noopener">Tsai Lab</a>, University of Birmingham</div>
+<div style="margin-top: 0.4rem;"><span class="timeline-year">2023</span>Dissertation Project, <a href="https://www.yinchenlab.org" target="_blank" rel="noopener">Chen Lab</a></div>
+<div style="margin-top: 0.4rem;"><span class="timeline-year">2022</span>Wellcome Biomedical Vacation Studentship, <a href="https://www.whelanlab.co.uk" target="_blank" rel="noopener">Whelan Lab</a>, University of Nottingham</div>
 </div>
 </div>
 </div>
