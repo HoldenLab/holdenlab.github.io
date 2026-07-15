@@ -2,6 +2,7 @@
 layout: page
 title: Saba Alhagagi
 description: PhD student
+img: assets/img/people/Saba_Alhagagi_profile.jpg
 importance: 301
 category: current
 redirect: 
@@ -86,13 +87,8 @@ margin-right: 0.3rem;
 <div class="profile-page">
 <div class="profile-section">
 <span class="section-title">About Me</span>
-<p>Time spent in various clinical microbiology labs throughout my undergraduate degree led me to develop a broad interest in the mechanistic principles that drive microbial life at the nanoscale. I joined the Holden Lab in October 2023 to carry out my final-year research project as part of an Integrated Master's (MBio) in Biomedical Science at the University of Warwick. My Master's project focused on developing a cryofixation strategy for advanced light microscopy studies of bacterial molecular machines.</p>
+<p>Time spent in several clinical microbiology labs during my undergraduate degree led me to develop a broad interest in the mechanistic principles that underpin microbial life at the nanoscale. I joined the Holden Lab in October 2023 to carry out my final-year research project as part of an Integrated Master's (MBio) in Biomedical Science at the University of Warwick. My Master's project focused on developing a cryofixation strategy for advanced light microscopy studies of bacterial molecular machines.</p>
 <p>As a BBSRC-MIBTP funded PhD student jointly based in the Holden and <a href="https://stansfeldresearchgroup.wordpress.com/" target="_blank" rel="noopener">Stansfeld</a> Research Groups, I combine computational biochemistry and single-molecule biophysics to study how the Gram-negative pathogen <em>Pseudomonas aeruginosa</em> builds its cell wall during division. Understanding this process could inform the development of novel cell wall synthesis inhibitors to combat antimicrobial resistance.</p>
-</div>
-</div>
-<div class="col">
-{% include figure.html path="assets/img/people/Saba_Alhagagi_profile.jpg" class="img-fluid rounded z-depth-1" %}
-</div>
 </div>
 <div class="profile-section">
 <span class="section-title">Career Timeline</span>
