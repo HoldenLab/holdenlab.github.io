@@ -91,7 +91,7 @@ margin-right: 0.3rem;
 </div>
       </div>
     <div class="about-photo">
-      <img src="/assets/img/people/Saba_Alhagagi_profile.jpg" alt="Saba Alhagagi">
+      <img src="/assets/img/people/Saba_Alhagagi_profile.jpg.jpg" width="100%" style="border-radius:5px;">
     </div>
   </div>
 <div class="profile-section">
