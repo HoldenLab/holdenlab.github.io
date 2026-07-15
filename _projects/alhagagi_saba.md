@@ -86,9 +86,14 @@ margin-right: 0.3rem;
 <div class="profile-page">
 <div class="profile-section">
 <span class="section-title">About Me</span>
-<p>Time spent in various clinical microbiology labs throughout my undergraduate degree drew me to specialise in Microbiology, and I developed a broad interest in the mechanistic principles that drive microbial life at the nanoscale. I joined the Holden Lab in October 2023 to carry out my final-year research project as part of an Integrated Master's (MBio) in Biomedical Science at the University of Warwick. My Master's project focused on developing a cryofixation strategy for advanced light microscopy studies of bacterial molecular machines.</p>
+<p>Time spent in various clinical microbiology labs throughout my undergraduate degree led me to develop a broad interest in the mechanistic principles that drive microbial life at the nanoscale. I joined the Holden Lab in October 2023 to carry out my final-year research project as part of an Integrated Master's (MBio) in Biomedical Science at the University of Warwick. My Master's project focused on developing a cryofixation strategy for advanced light microscopy studies of bacterial molecular machines.</p>
 <p>As a BBSRC-MIBTP funded PhD student jointly based in the Holden and <a href="https://stansfeldresearchgroup.wordpress.com/" target="_blank" rel="noopener">Stansfeld</a> Research Groups, I combine computational biochemistry and single-molecule biophysics to study how the Gram-negative pathogen <em>Pseudomonas aeruginosa</em> builds its cell wall during division. Understanding this process could inform the development of novel cell wall synthesis inhibitors to combat antimicrobial resistance.</p>
 </div>
+      </div>
+    <div class="about-photo">
+      <img src="/assets/img/people/Saba_Alhagagi_profile.jpg" alt="Saba Alhagagi">
+    </div>
+  </div>
 <div class="profile-section">
 <span class="section-title">Career Timeline</span>
 <div class="timeline">
