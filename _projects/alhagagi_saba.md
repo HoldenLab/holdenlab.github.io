@@ -91,7 +91,7 @@ margin-right: 0.3rem;
 </div>
 </div>
 <div class="col">
-<img src="/assets/img/people/Saba_Alhagagi_profile.jpg" width="100%" style="border-radius:5px;">
+{% include figure.html path="assets/img/people/Saba_Alhagagi_profile.jpg" class="img-fluid rounded z-depth-1" %}
 </div>
 </div>
 <div class="profile-section">
