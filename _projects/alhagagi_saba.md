@@ -90,7 +90,7 @@ margin-right: 0.3rem;
 <p>As a BBSRC-MIBTP funded PhD student jointly based in the Holden and <a href="https://stansfeldresearchgroup.wordpress.com/" target="_blank" rel="noopener">Stansfeld</a> Research Groups, I combine computational biochemistry and single-molecule biophysics to study how the Gram-negative pathogen <em>Pseudomonas aeruginosa</em> builds its cell wall during division. Understanding this process could inform the development of novel cell wall synthesis inhibitors to combat antimicrobial resistance.</p>
 </div>
       </div>
-    <div class="about-photo">
+    <div class="col">
       <img src="/assets/img/people/Saba_Alhagagi_profile.jpg.jpg" width="100%" style="border-radius:5px;">
     </div>
   </div>
