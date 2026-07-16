@@ -88,25 +88,26 @@ margin-right: 0.3rem;
 <div class="profile-section">
 <span class="section-title">About Me</span>
 <p>Time spent in several clinical microbiology labs during my undergraduate degree led me to develop a broad interest in the mechanistic principles that underpin microbial life at the nanoscale. I joined the Holden Lab in October 2023 to carry out my final-year research project as part of an Integrated Master's (MBio) in Biomedical Science at the University of Warwick. My Master's project focused on developing a cryofixation strategy for advanced light microscopy studies of bacterial molecular machines.</p>
-<p>As a BBSRC-MIBTP funded PhD student jointly based in the Holden and <a href="https://stansfeldresearchgroup.wordpress.com/" target="_blank" rel="noopener">Stansfeld</a> Research Groups, I combine computational biochemistry and single-molecule biophysics to study how the Gram-negative pathogen <em>Pseudomonas aeruginosa</em> builds its cell wall during division. Understanding this process could inform the development of novel cell wall synthesis inhibitors to combat antimicrobial resistance.</p>
+<p>As a BBSRC-MIBTP funded PhD student based in the Holden and <a href="https://stansfeldresearchgroup.wordpress.com/" target="_blank" rel="noopener">Stansfeld</a> Research Groups, I combine computational biochemistry and single-molecule biophysics to study how the Gram-negative pathogen <em>Pseudomonas aeruginosa</em> builds its cell wall during division. Understanding this process could inform the development of novel cell wall synthesis inhibitors to combat antimicrobial resistance.</p>
 </div>
 <div class="profile-section">
 <span class="section-title">Career Timeline</span>
 <div class="timeline">
 <div class="timeline-item">
 <span class="timeline-year">2024&ndash;2028</span>
-<span class="timeline-title">PhD in Biophysics, University of Warwick</span>
+<span class="timeline-title">PhD in Molecular Biophysics, University of Warwick</span>
 <div class="timeline-sub">
-<span class="timeline-year">2025</span>PhD Rotation Project, <a href="https://www.birmingham.ac.uk/staff/profiles/biosciences/knowles-tim" target="_blank" rel="noopener">Knowles Lab</a>, University of Birmingham
+<div><span class="timeline-year">2026</span>PoLNET Visiting Student, <a href="https://www2.mrc-lmb.cam.ac.uk/groups/JYL/" target="_blank" rel="noopener">L&ouml;we Lab</a>, MRC Laboratory of Molecular Biology</div>
+<div style="margin-top: 0.4rem;"><span class="timeline-year">2025</span>PhD Rotation Project, <a href="https://www.birmingham.ac.uk/staff/profiles/biosciences/knowles-tim" target="_blank" rel="noopener">Knowles Lab</a>, University of Birmingham</div>
 </div>
 </div>
 <div class="timeline-item">
 <span class="timeline-year">2020&ndash;2024</span>
 <span class="timeline-title">MBio (First Class Hons) in Biomedical Science, University of Warwick</span>
 <div class="timeline-sub">
-<div><span class="timeline-year">2024</span>MBio Project, Holden Lab</div>
+<div><span class="timeline-year">2024</span>Sir Howard Dalton Centre Small Grant Award</div>
+<div style="margin-top: 0.4rem;"><span class="timeline-year">2024</span>Warwick Outstanding Student Contribution Award</div>
 <div style="margin-top: 0.4rem;"><span class="timeline-year">2023</span>British Mycological Society Summer Studentship, <a href="https://sites.google.com/view/tsailab/" target="_blank" rel="noopener">Tsai Lab</a>, University of Birmingham</div>
-<div style="margin-top: 0.4rem;"><span class="timeline-year">2023</span>Dissertation Project, <a href="https://www.yinchenlab.org" target="_blank" rel="noopener">Chen Lab</a></div>
 <div style="margin-top: 0.4rem;"><span class="timeline-year">2022</span>Wellcome Biomedical Vacation Studentship, <a href="https://www.whelanlab.co.uk" target="_blank" rel="noopener">Whelan Lab</a>, University of Nottingham</div>
 </div>
 </div>
