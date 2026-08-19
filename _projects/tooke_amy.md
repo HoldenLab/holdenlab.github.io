@@ -5,7 +5,7 @@ description: |
   MRes student, 2016
   Next: PhD student, University of Sheffield
 img: assets/img/people/Amy_Tooke.jpg
-importance: 7
+importance: 107
 category: alumni
 redirect: 
 ---

@@ -5,7 +5,7 @@ description: |
   Postdoctoral Fellow, 2021-2022
   Next: Bioimaging staff scientist, Newcastle University
 img: 
-importance: 2
+importance: 102
 category: alumni
 redirect: 
 ---

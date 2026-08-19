@@ -6,7 +6,7 @@ description: |
   
   Next: Brewery Microbiologist, BrewBoard UK
 img: assets/img/people/nicholas_tregidgo_profile.jpg
-importance: 5
+importance: 105
 category: alumni
 redirect: 
 ---
