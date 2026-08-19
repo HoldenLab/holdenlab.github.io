@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Andrew McMahon
-description: Postdoctoral fellow, 2023-2026 Next: Post-doc, Webby lab, University of Warwick 
+description: Postdoctoral fellow, 2023-2026 Next Post-doc, Webby lab, University of Warwick 
 img: assets/img/people/andrew_mcmahon_profile.jpg
 importance: 99
 category: alumni
