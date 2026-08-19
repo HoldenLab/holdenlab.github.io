@@ -1,10 +1,10 @@
 ---
 layout: page
 title: Andrew McMahon
-description: Postdoctoral fellow
+description: Postdoctoral fellow 2023-26; Next Postdoctoral fellow, Webby Lab, University of Warwick: https://webby-lab.owlstown.net/people/5403-dr-andrew-mcmahon
 img: assets/img/people/andrew_mcmahon_profile.jpg
-importance: 2
-category: current
+importance: -1
+category: alumni
 redirect: 
 related_publications:
 ---
@@ -30,7 +30,7 @@ Github: <a href="https://github.com/amcmahon1345/filaments">amcmahon1345</a>
   </div>
   <div class="row">
 
-  Almost all bacteria are surrounded by a peptidoglycan (PG) cell wall which allows bacteria to withstand high internal turgor pressures. The bacterial cell wall is of critical medical importance as the key target of our most widely used antibiotics such as the penicillins and cephalosporins. During cell growth, most PG synthesis is carried out by a multi-protein complex called the elongasome, which inserts PG strands processively around the cell circumference. The elongasome functions by building a growing PG polymer out of lipid II building blocks and attaching it to the existing cell wall material. My current research is investigating the cell wall building processes using single particle tracking (SPT) and SRFM. 
+  Almost all bacteria are surrounded by a peptidoglycan (PG) cell wall which allows bacteria to withstand high internal turgor pressures. The bacterial cell wall is of critical medical importance as the key target of our most widely used antibiotics such as the penicillins and cephalosporins. During cell growth, most PG synthesis is carried out by a multi-protein complex called the elongasome, which inserts PG strands processively around the cell circumference. The elongasome functions by building a growing PG polymer out of lipid II building blocks and attaching it to the existing cell wall material. My current research is investigating the cell wall building processes using single particle tracking (SPT) and SRFM including the use of MINFLUX to track bacterial proteins. 
 
   </div>
 </div>
