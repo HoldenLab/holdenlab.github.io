@@ -16,6 +16,11 @@ We are very happy to host post-doctoral fellowship applications in the lab and c
 
 If you would like more information about a specific position, or would just like to make general recruitment or studentship enquiries, please email [seamus.holden@warwick.ac.uk](seamus.holden@warwick.ac.uk) with CV.
 
+## Current
+
+- *MIBTP* PhD project in Holden lab, [sing super-resolution microscopy to investigate the mechanistic principles of bacterial cell wall remodelling](https://www.findaphd.com/phds/project/using-super-resolution-microscopy-to-investigate-the-mechanistic-principles-of-bacterial-cell-wall-remodelling/?p199891). This project is part of the [BBSRC MIBTP PhD training programme](https://warwick.ac.uk/fac/cross_fac/mibtp/) and is open to both home and international students. Start date is September 2027 and *application deadline is 23/11/2026*. Informal enquiries welcome, please [email me](mailto:seamus.holden@warwick.ac.uk), attaching a current CV.
+- [Warwick MRC DTP programme](https://warwick.ac.uk/fac/sci/med/study/mrcdtp/): This is an excellent interdisciplinary PhD programme which has a training Y1 including two lab rotation projects from the supervisor pool, of which I am a member. Students then choose a host lab at the end of Y1. I am happy to have informal discussion about this programme, again [email me](mailto:seamus.holden@warwick.ac.uk), attaching a current CV. *Application deadline 16/11/2026*
+
 ## Upcoming
 
 - *PhD positions*: The primary path to a PhD in the lab is through two excellent doctoral training programmes: the [BBSRC MIBTP PhD training programme](https://warwick.ac.uk/fac/cross_fac/mibtp/) and the [Warwick MRC DTP](https://warwick.ac.uk/fac/sci/med/study/mrcdtp/). We are happy to host both rotation projects and main PhD projects. Applications to both of these programmes usually opens around October or November.
